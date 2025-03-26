@@ -1,20 +1,39 @@
 # DADS5001
-DADS5001 Project
+E-Government Development Index (EGDI) 2024
+
+# Part 1: Introduction: E-Government Development Index (EGDI)
+
+การสำรวจรัฐบาลอิเล็กทรอนิกส์ของสหประชาชาติ (E-Government Survey) เป็นโครงการที่จัดทำขึ้นทุก 2 ปีโดย United Nations Department of Economic and Social Affairs (UN DESA) เริ่มต้นตั้งแต่ปี 2001 การสำรวจนี้มีวัตถุประสงค์เพื่อประเมินสถานะการพัฒนารัฐบาลอิเล็กทรอนิกส์ของ 193 ประเทศสมาชิกสหประชาชาติ โดยมีการจัดทำดัชนีรัฐบาลอิเล็กทรอนิกส์ (E-government development index: EGDI) ซึ่งใช้วัดความก้าวหน้าในระดับประเทศ โดย EGDI เป็นดัชนีรวมที่คำนวณจากค่าเฉลี่ยถ่วงน้ำหนักของดัชนีย่อยที่ผ่านการปรับให้เป็นมาตรฐานแล้ว 3 ดัชนี ดังนี้:
+
 
 
 <p align="center">
   <img width="504" alt="EGDI Component" src="https://github.com/user-attachments/assets/f4ec030f-1e14-4059-a32f-ad13691f1d5d" />
 </p>
 
+<p align="center">รูปภาพที่ 1</p>
 
+1. ดัชนีบริการออนไลน์ (OSI) ซึ่งอ้างอิงจากข้อมูลที่ได้จากการประเมินทางออนไลน์ที่ดำเนินการโดย UN DESA เพื่อตรวจสอบบริการออนไลน์ของประเทศ 193 ประเทศสมาชิกสหประชาชาติ นอกจากนี้ ยังมีการใช้แบบสอบถาม Member State Questionnaire (MSQ) ที่ให้ประเทศสมาชิกตอบ เพื่อเสริมการประเมินด้วย 
+2. ดัชนีโครงสร้างพื้นฐานด้านโทรคมนาคม (TII) ซึ่งอ้างอิงจากข้อมูลที่จัดทำโดย สหภาพโทรคมนาคมระหว่างประเทศ (ITU) 
+3. ดัชนีทุนมนุษย์ (HCI) โดยใช้ข้อมูลหลักจาก องค์การการศึกษา วิทยาศาสตร์ และวัฒนธรรมแห่งสหประชาชาติ (UNESCO)
 
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a)
 
 <p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
 
-
-        TII_2024 มีค่าเฉลี่ยสูงสุดที่ 0.69 แสดงถึงความก้าวหน้าด้านโครงสร้างพื้นฐานทางโทรคมนาคม ในขณะที่ OSI_2024 มีค่าเฉลี่ยต่ำสุดที่ 0.58 สะท้อนถึงความท้าทายด้านการให้บริการออนไลน์ ด้าน EGDI_2024 และ HCI_2024 มีค่าเฉลี่ยใกล้เคียงกันที่ 0.64 และ 0.65 ตามลำดับ
+TII_2024 มีค่าเฉลี่ยสูงสุดที่ 0.69 แสดงถึงความก้าวหน้าด้านโครงสร้างพื้นฐานทางโทรคมนาคม ในขณะที่ OSI_2024 มีค่าเฉลี่ยต่ำสุดที่ 0.58 สะท้อนถึงความท้าทายด้านการให้บริการออนไลน์ ด้าน EGDI_2024 และ HCI_2024 มีค่าเฉลี่ยใกล้เคียงกันที่ 0.64 และ 0.65 ตามลำดับ
 
 
 ![plot1 2_Boxplot](https://github.com/user-attachments/assets/1a264e47-ca91-4ff5-be9c-e158bbdb761c)
@@ -39,6 +58,7 @@ DADS5001 Project
 ![plot1 22_lineHCIbyall](https://github.com/user-attachments/assets/83368afd-7330-49d4-9214-b35db671a3a0)
 
 
+# Part 2: How does Thailand perform compared with other countries?
 
 ![plot2 1_ComparisonEGDI](https://github.com/user-attachments/assets/26521d34-9267-4cf6-b34f-914465b039db)
 ![plot2 2_EGDIofAllCountries](https://github.com/user-attachments/assets/88923d59-e17a-4c7c-a74c-fa3e6f8cebd2)
@@ -51,7 +71,7 @@ DADS5001 Project
 ![plot2 9_BoxplotHCIbyAll](https://github.com/user-attachments/assets/8cf61d53-39bb-4701-a602-3b36086539ff)
 
 
-
+# Part 3: Which sub-indices should be prioritized to enhance Thailand's EGDI ranking?
 
 ![plot3 1_ComparisonsubOSI](https://github.com/user-attachments/assets/2ba8a7ff-8c03-4166-99b6-4ff3ec409e1c)
 ![plot3 2_DifferenceMaxOSI](https://github.com/user-attachments/assets/b95b0e8a-772b-4915-a161-78d3086a0253)
