@@ -10,9 +10,9 @@ E-Government Development Index (EGDI) 2024
 <p align="center">
   <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/f4ec030f-1e14-4059-a32f-ad13691f1d5d" />
 </p>
-ที่มา: United Nations (2024). UN E-Government Survey 2024. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024
 
-<br>
+ที่มา: United Nations (2024). UN E-Government Survey 2024. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
 
 1. ดัชนีบริการออนไลน์ (Online Service Index: OSI) ซึ่งอ้างอิงจากข้อมูลที่ได้จากการประเมินทางออนไลน์ที่ดำเนินการโดย UN DESA เพื่อตรวจสอบบริการออนไลน์ของประเทศ 193 ประเทศสมาชิกสหประชาชาติ นอกจากนี้ ยังมีการใช้แบบสอบถาม Member State Questionnaire (MSQ) ที่ให้ประเทศสมาชิกตอบ เพื่อเสริมการประเมินด้วย 
 2. ดัชนีโครงสร้างพื้นฐานด้านโทรคมนาคม (Telecommunications Infrastructure Index: TII) ซึ่งอ้างอิงจากข้อมูลที่จัดทำโดย International Telecommunications Union (ITU) 
