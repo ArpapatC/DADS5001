@@ -19,7 +19,8 @@ DADS5001 Project
 
 ![plot1 4_AveragebyRegion](https://github.com/user-attachments/assets/3ccb3042-6af8-49f3-adc1-7785bf4eb81a)
 
-![plot1 5_boxplotbyRegion](https://github.com/user-attachments/assets/4253ea42-b438-434c-aa9b-7cee830f7b4b)
+![plot1 5_boxplotbyRegion](https://github.com/user-attachments/assets/cc74587d-d5b8-4f63-bd24-3af72740c51f)
+
 
 ![plot1 6_PercentagebyRegion](https://github.com/user-attachments/assets/78ff8340-e658-440a-9227-3d3561340a74)
 
