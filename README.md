@@ -8,3 +8,4 @@ DADS5001 Project
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/de35b32f-a257-43be-a0bf-c81f13434d5b)
 
+![plot1 2_Boxplot](https://github.com/user-attachments/assets/53856a06-dc1d-49d8-b207-5cd6528b4bcf)
