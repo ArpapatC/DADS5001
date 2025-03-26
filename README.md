@@ -10,6 +10,10 @@ DADS5001 Project
 
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a)
+
+TII_2024 มีค่าเฉลี่ยสูงสุดที่ 0.69 แสดงถึงความก้าวหน้าด้านโครงสร้างพื้นฐานทางโทรคมนาคม ในขณะที่ OSI_2024 มีค่าเฉลี่ยต่ำสุดที่ 0.58 สะท้อนถึงความท้าทายด้านการให้บริการออนไลน์ ด้าน EGDI_2024 และ HCI_2024 มีค่าเฉลี่ยใกล้เคียงกันที่ 0.64 และ 0.65 ตามลำดับ
+
+
 ![plot1 2_Boxplot](https://github.com/user-attachments/assets/1a264e47-ca91-4ff5-be9c-e158bbdb761c)
 ![plot1 3_histograms](https://github.com/user-attachments/assets/cb647a81-d94b-42ea-ba6e-73b31f30a5fe)
 ![plot1 4_AveragebyRegion](https://github.com/user-attachments/assets/f14617f1-335a-4ef8-9b97-60a70d5050c2)
