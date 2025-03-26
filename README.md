@@ -12,15 +12,25 @@ DADS5001 Project
 
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/db18bbee-0271-42c8-8ccf-6a77168b0d19)
+
 ![plot1 2_Boxplot](https://github.com/user-attachments/assets/bb4f58de-a281-41de-aea2-f91a66c51bc6)
+
 ![plot1 3_histograms](https://github.com/user-attachments/assets/239d66e7-1bb6-4540-b4ff-e3d566b8e2e4)
+
 ![plot1 4_AveragebyRegion](https://github.com/user-attachments/assets/3ccb3042-6af8-49f3-adc1-7785bf4eb81a)
+
 ![plot1 5_boxplotbyRegion](https://github.com/user-attachments/assets/4253ea42-b438-434c-aa9b-7cee830f7b4b)
+
 ![plot1 6_PercentagebyRegion](https://github.com/user-attachments/assets/78ff8340-e658-440a-9227-3d3561340a74)
+
 ![plot1 7_AveragebyIncome](https://github.com/user-attachments/assets/66cf4057-60f6-4349-9d4a-9aa190b440b6)
+
 ![plot1 8_boxplotbyIncome](https://github.com/user-attachments/assets/c8b53238-7e0a-420b-9637-e9b5db71da1b)
+
 ![plot1 9_PercentagebyIncome](https://github.com/user-attachments/assets/02011865-0f2a-41d9-8237-5e1e6d65347a)
+
 ![plot1 10_boxplotbyall](https://github.com/user-attachments/assets/ed6189f2-ca86-40ce-9924-266fcf47edf0)
+
 ![plot1 11_AverageallbyRegion](https://github.com/user-attachments/assets/6e3448fb-bd91-41f5-97c7-2113d2165e94)
 ![plot1 12_boxplotallbyRegion](https://github.com/user-attachments/assets/c39e4269-0003-42d2-9995-767148918e47)
 ![plot1 13_AverageallbyIncome](https://github.com/user-attachments/assets/e95bfae2-3d62-4796-83a9-68bad22649ec)
