@@ -11,7 +11,7 @@ DADS5001 Project
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a)
 
-
+<p align="center">รูปภาพที่ 1</p>
 <div style="text-align: center;"> รูปภาพที่ 1 </div>
 <p style="text-align: center;">
 รูปภาพที่ 1
