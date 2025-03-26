@@ -31,6 +31,10 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a" alt="plot1 1_Average" width="700" />
+</p>
+
 ค่าเฉลี่ย EGDI อยู่ที่ 0.64 โดยดัชนีย่อย TII มีค่าเฉลี่ยสูงสุดที่ 0.69 แสดงถึงความก้าวหน้าด้านโครงสร้างพื้นฐานทางโทรคมนาคม ในขณะที่ OSI มีค่าเฉลี่ยต่ำสุดที่ 0.58 สะท้อนถึงความท้าทายด้านการให้บริการออนไลน์ ส่วน HCI มีค่าเฉลี่ยอยู่ที่ 0.65 
 
 
