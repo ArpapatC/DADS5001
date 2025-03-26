@@ -40,7 +40,10 @@ DADS5001 Project
 ![plot1 15_AverageallbyGroup](https://github.com/user-attachments/assets/b57682d4-38f1-48f6-86cf-34319cb7d292)
 ![plot1 16_boxplotallbyGroup](https://github.com/user-attachments/assets/b345331e-7f42-44cd-b853-1abf6af295ac)
 ![plot1 17_Correlation_Matrix](https://github.com/user-attachments/assets/20a165a6-9144-409a-9087-7d42a4f8a863)
-![plot1 18_pairplotbyIncome](https://github.com/user-attachments/assets/b639609c-7fe5-400a-b1c9-823cfd196501)
+
+![plot1 18_pairplotbyIncome](https://github.com/user-attachments/assets/d87b19a3-5f60-4ada-b584-e506991cad60)
+
+
 ![plot1 19_pairplotbyGroup](https://github.com/user-attachments/assets/0e1dcdd8-6c5a-47ff-a254-fc69043075d9)
 ![plot1 20_lineOSIbyall](https://github.com/user-attachments/assets/00b53354-e946-4c4c-b240-4cedd3861238)
 ![plot1 21_lineTIIbyall](https://github.com/user-attachments/assets/d0032db1-f833-4ef7-83b8-948521e9cbe0)
