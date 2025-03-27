@@ -157,9 +157,6 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
-![OSI_Thailand_Comparison](https://github.com/user-attachments/assets/db9501c0-a55f-4b4c-a0ec-a573ce3887c0)
-
-
 
 
 
