@@ -5,7 +5,7 @@ E-Government Development Index (EGDI) 2024<br/>
 <br/>
 เพื่อให้บรรลุเป้าหมายดังกล่าว งานชิ้นนี้จึงมีวัตถุประสงค์ในการวิเคราะห์ว่า ประเทศไทยควรมุ่งเน้นการยกระดับดัชนีย่อยใด ที่จะส่งผลต่อการเพิ่มอันดับ EGDI อย่างมีประสิทธิภาพ
 
-# Part 1: Introduction: E-Government Development Index (EGDI)
+# Part 1: Overall Analysis of E-Government Development Index (EGDI), Online Service Index (OSI), Telecommunications Infrastructure Index (TII), and Human capital Index (HCI)
 
 การสำรวจรัฐบาลอิเล็กทรอนิกส์ของสหประชาชาติ (E-Government Survey) เป็นโครงการที่จัดทำขึ้นทุก 2 ปีโดย United Nations Department of Economic and Social Affairs (UN DESA) เริ่มต้นตั้งแต่ปี 2001 การสำรวจนี้มีวัตถุประสงค์เพื่อประเมินสถานะการพัฒนารัฐบาลอิเล็กทรอนิกส์ของ 193 ประเทศสมาชิกสหประชาชาติ โดยมีการจัดทำดัชนีรัฐบาลอิเล็กทรอนิกส์ (E-government development index: EGDI) ซึ่งใช้วัดความก้าวหน้าในระดับประเทศ โดย EGDI เป็นดัชนีรวมที่คำนวณจากค่าเฉลี่ยถ่วงน้ำหนักของดัชนีย่อยที่ผ่านการปรับให้เป็นมาตรฐานแล้ว (normalized indices) 3 ดัชนีย่อย ดังนี้:
 
