@@ -31,32 +31,38 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a)
 
-ค่าเฉลี่ย EGDI อยู่ที่ 0.64 โดยดัชนีย่อย TII มีค่าเฉลี่ยสูงสุดที่ 0.69 แสดงถึงความก้าวหน้าด้านโครงสร้างพื้นฐานทางโทรคมนาคม ในขณะที่ OSI มีค่าเฉลี่ยต่ำสุดที่ 0.58 สะท้อนถึงความท้าทายด้านการให้บริการออนไลน์ ส่วน HCI มีค่าเฉลี่ยอยู่ที่ 0.65 
+ค่าเฉลี่ย EGDI อยู่ที่ 0.64 โดยดัชนีย่อย TII มีค่าเฉลี่ยสูงสุดที่ 0.69 แสดงถึงประเทศส่วนใหญ่มีความก้าวหน้าด้านโครงสร้างพื้นฐานทางโทรคมนาคมมากกว่าด้านอื่น ในขณะที่ OSI มีค่าเฉลี่ยต่ำสุดที่ 0.58 สะท้อนถึงความท้าทายด้านการให้บริการออนไลน์ ส่วน HCI มีค่าเฉลี่ยอยู่ที่ 0.65 
 
 
 <p align="center">รูปภาพที่ 1.3: Boxplot of EGDI, OSI, TII, and HCI in 2024</p>
 
 ![plot1 2_Boxplot](https://github.com/user-attachments/assets/1a264e47-ca91-4ff5-be9c-e158bbdb761c)
 
-กราฟแสดง Boxplot ของ EGDI, OSI, TII และ HCI ในปี 2024 พบว่า TII มีค่า Median สูงสุด และมีลักษณะเบ้ซ้าย แสดงถึงประเทศส่วนใหญ่มีโครงสร้างพื้นฐานโทรคมนาคมที่พัฒนาในระดับสูง เช่นเดียวกับ HCI มีกราฟมีลักษณะเบ้ซ้ายเช่นกัน ขณะที่ OSI มีค่า Median ต่ำที่สุด และมีค่ากระจายกว้าง
+กราฟแสดง Boxplot ของ EGDI, OSI, TII และ HCI ในปี 2024 โดย Boxplot แต่ละอันแสดงค่าต่ำสุด ค่าควอไทล์ที่ 1 ค่า Median ค่าควอไทล์ที่ 3 และค่าสูงสุดของ EGDI และดัชนีย่อย ซึ่งจากกราฟ พบว่า TII มีค่า Median สูงสุด และมีลักษณะเบ้ซ้าย แสดงถึงประเทศส่วนใหญ่มีโครงสร้างพื้นฐานโทรคมนาคมที่พัฒนาในระดับสูง เช่นเดียวกับ HCI ที่มีกราฟมีลักษณะเบ้ซ้ายเช่นกัน ขณะที่ OSI มีค่า Median ต่ำที่สุด และมีค่ากระจายกว้าง กล่าวคือ 
 
 
-<p align="center">รูปภาพที่ 1.4</p>
-
-
-
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-
+<p align="center">รูปภาพที่ 1.4: Average EGDI in 2024 by Region</p>
 
 ![plot1 4_AveragebyRegion](https://github.com/user-attachments/assets/f14617f1-335a-4ef8-9b97-60a70d5050c2)
+
+กราฟแสดงค่าเฉลี่ย EGDI ในปี 2024 จำแนกตามภูมิภาคต่างๆ 5 ภูมิภาค ได้แก่ แอฟริกา อเมริกา เอเชีย ยุโรป และโอเชียเนีย โดยยุโรป มีค่าเฉลี่ย EGDI สูงที่สุดที่ 0.85 แอฟริกา มีค่าเฉลี่ย EGDI ต่ำที่สุดที่ 0.42
+
+
+<p align="center">รูปภาพที่ 1</p>
+
+
+
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+
+
+
 ![plot1 5_boxplotbyRegion](https://github.com/user-attachments/assets/19c1b631-6e64-44f0-bab8-b872ec4a596c)
 ![plot1 6_PercentagebyRegion](https://github.com/user-attachments/assets/9633b384-229f-4f3c-b40f-6e3eaf45d2d5)
 ![plot1 7_AveragebyIncome](https://github.com/user-attachments/assets/13624067-bd8c-45e7-b307-c232be41ede4)
