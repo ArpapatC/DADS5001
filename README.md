@@ -42,6 +42,8 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
+
+
 ## Comparison of EGDI Across Regions
 
 <p align="center">รูปภาพที่ 1.4: Average EGDI in 2024 by Region</p>
@@ -72,6 +74,8 @@ E-Government Development Index (EGDI) 2024<br/>
 ![plot1 12_boxplotallbyRegion](https://github.com/user-attachments/assets/d3986fc5-aebb-4f8a-ad03-3c932eeb327a)
 
 รูปภาพที่ 1.7-1.8 แสดงค่าเฉลี่ย และ boxplot ของ EGDI, OSI, TII และ HCI จำแนกตามภูมิภาค ซึ่งผลของดัชนีย่อย OSI, TII และ HCI ค่อนข้างคล้ายกับผล EGDI คือ ยุโรป มีค่าเฉลี่ย และค่า Median สูงที่สุด และแอฟริกา มีค่าเฉลี่ย และค่า Median ต่ำที่สุด ยกเว้น OSI ที่ค่า Median ของโอเชียเนียต่ำกว่าแอฟริกา นอกจากนี้ ยังมีประเด็นอื่นๆ ที่น่าสนใจ เช่น สำหรับแอฟริกา การกระจายของค่า EGDI ภายในภูมิภาค มาจากการกระจายของ TII คือ มีความแตกต่างด้านโครงสร้างพื้นฐานโทรคมนาคมระหว่างประเทศภายในภูมิภาค ขณะที่อเมริกา มีการกระจายทางด้าน OSI หรือด้านบริการภาครัฐที่สูงกว่าดัชนีย่อยอื่น ส่วนยุโรป มีค่า TII ที่โดดเด่นกว่าดัชนีย่อยอื่น และค่อนข้างกระจุกตัวอยู่ในระดับสูง นอกจากนี้ ขณะที่ภูมิภาคอื่นมีค่า TII ที่สูงกว่าดัชนีย่อยอื่น แต่โอเชียเนียกลับมีความโดดเด่นที่ HCI หรือดัชนีทุนมนุษย์ ที่สูงกว่าดัชนีย่อยอื่น
+
+
 
 
 
@@ -113,8 +117,10 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
-![plot1 15_AverageallbyGroup](https://github.com/user-attachments/assets/fd859a79-f81d-4091-a494-ee2273442907)
-![plot1 16_boxplotallbyGroup](https://github.com/user-attachments/assets/896563ff-4e4d-497f-b6b7-d5a4fbe24583)
+
+## Relationship between EGDI and OSI, TII and HCI
+
+
 ![plot1 17_Correlation_Matrix](https://github.com/user-attachments/assets/99598d15-8ff4-4fe0-8cdd-03006c83c35e)
 ![plot1 18_pairplotbyIncome](https://github.com/user-attachments/assets/dcbb94fb-945b-4aa0-aea7-1f4f7e336d15)
 ![plot1 19_pairplotbyGroup](https://github.com/user-attachments/assets/950986bb-99b8-42ad-bceb-500179909ab4)
