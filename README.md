@@ -212,7 +212,7 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ![plot2 9_BoxplotHCIbyAll](https://github.com/user-attachments/assets/d64659ca-ee8a-40b9-85ce-fb7070430a20)
 
-
+รูปภาพที่ 2.5-2.10 เป็นกราฟแสดงค่าแบบเดียวกับรูปภาพที่ 2.3-2.4 แต่เปลี่ยนเป็นการแสดงค่า OSI, TII and HCI ซึ่งผลที่ได้ออกมาคล้ายกับ EGDI โดยสามารถสรุปเฉพาะประเด็นที่น่าสนใจได้ดังนี้
 
 
 
