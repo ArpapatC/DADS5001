@@ -163,6 +163,10 @@ E-Government Development Index (EGDI) 2024<br/>
 
 รูปภาพที่ 2.2 แสดงคะแนน EGDI ของทุกประเทศเรียงจากมากที่สุดไปจนถึงน้อยที่สุด โดยไฮไลท์ประเทศไทยเป็นสีแดง และมีเส้นค่าเฉลี่ย EGDI ของโลกแสดงด้วยเส้นประสีน้ำเงิน และค่าเฉลี่ย EGDI แสดงด้วยตัวเลขสีน้ำเงิน ซึ่งจากกราฟจะเห็นว่าประเทศไทย มีคะแนน EGDI สูงกว่าค่าเฉลี่ย
 
+
+
+## Comparison of EGDI specifically with countries in the same group as Thailand.
+ปี 2024 ประเทศไทยถูกจัดอยู่ในกลุ่ม Asia, South-East Asia, Upper-Middle Income และ Very High EGDI
 <p align="center">รูปภาพที่ 2.3: Comparison of Thailand EGDI and Global, Asia, South-East Asia, Upper-Middle Income, and Very High EGDI Averages</p>
 
 ![plot2 2_ComparisonEGDI](https://github.com/user-attachments/assets/9b52b580-4fec-49b7-8628-0801fabd64fb)
