@@ -167,6 +167,9 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ## Comparison of EGDI specifically with countries in the same group as Thailand.
 ปี 2024 ประเทศไทยถูกจัดอยู่ในกลุ่ม Asia, South-East Asia, Upper-Middle Income และ Very High EGDI
+
+
+## EGDI
 <p align="center">รูปภาพที่ 2.3: Comparison of Thailand EGDI and Global, Asia, South-East Asia, Upper-Middle Income, and Very High EGDI Averages</p>
 
 ![plot2 2_ComparisonEGDI](https://github.com/user-attachments/assets/9b52b580-4fec-49b7-8628-0801fabd64fb)
@@ -181,22 +184,49 @@ E-Government Development Index (EGDI) 2024<br/>
 รูปภาพที่ 2.4 แสดง Boxplot ของ EGDI และ EGDI ของประเทศที่อยู่ในกลุ่มเดียวกับไทย คือ Asia, South-East Asia, Upper-Middle Income และ Very High EGDI โดยประเทศไทยมีคะแนน EGDI อยู่ที่ประมาณควอไทล์ที่ 3 ของทุกกลุ่ม ยกเว้นกลุ่ม Very High EGDI ที่ประเทศไทยอยู่ที่ประมาณระหว่างควอไทล์ที่ 1-2
 
 
+## OSI, TII and HCI
+ปี 2024 ประเทศไทยถูกจัดอยู่ในกลุ่ม Very High OSI, Very High TII และ Very High HCI
 
 
-<p align="center">รูปภาพที่ 2</p>
-<p align="center">รูปภาพที่ 2</p>
-<p align="center">รูปภาพที่ 2</p>
-<p align="center">รูปภาพที่ 2</p>
-
-
-
+<p align="center">รูปภาพที่ 2.5: Comparison of Thailand OSI and Global, Asia, South-East Asia, Upper-Middle Income, and Very High OSI Averages</p>
 
 ![plot2 4_ComparisonOSI](https://github.com/user-attachments/assets/1873bf8d-55dc-4def-b7c9-c47ec1cadc4f)
+
+<p align="center">รูปภาพที่ 2.6: Boxplot of OSI, OSI for Asia, OSI for South-Eastern Asia, OSI for UMc Countries, OSI for Very High OSI Countries</p>
+
 ![plot2 5_BoxplotOSIbyAll](https://github.com/user-attachments/assets/56824eb4-78fc-4dfb-ae1e-1b98e51ec8f2)
+
+<p align="center">รูปภาพที่ 2.7: Comparison of Thailand TII and Global, Asia, South-East Asia, Upper-Middle Income, and Very High TII Averages</p>
+
 ![plot2 6_ComparisonTII](https://github.com/user-attachments/assets/9099738e-85db-4791-ae85-0d2305346d0b)
+
+<p align="center">รูปภาพที่ 2.8: Boxplot of TII, TII for Asia, TII for South-Eastern Asia, TII for UMc Countries, TII for Very High TII Countries</p>
+
 ![plot2 7_BoxplotTIIbyAll](https://github.com/user-attachments/assets/d6367a56-1a7f-4230-aa1e-0ce9967ac2e6)
+
+<p align="center">รูปภาพที่ 2.9: Comparison of Thailand HCI and Global, Asia, South-East Asia, Upper-Middle Income, and Very High HCI Averages</p>
+
 ![plot2 8_ComparisonHCI](https://github.com/user-attachments/assets/37c94590-f65f-47cb-9b47-59345d69daea)
+
+<p align="center">รูปภาพที่ 2.10: Boxplot of HCI, HCI for Asia, HCI for South-Eastern Asia, HCI for UMc Countries, HCI for Very High HCI Countries</p>
+
 ![plot2 9_BoxplotHCIbyAll](https://github.com/user-attachments/assets/d64659ca-ee8a-40b9-85ce-fb7070430a20)
+
+
+
+
+
+
+
+<p align="center">รูปภาพที่ 2</p>
+<p align="center">รูปภาพที่ 2</p>
+
+
+
+
+
+
+
 
 
 
