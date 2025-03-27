@@ -1,7 +1,7 @@
 # DADS5001
 E-Government Development Index (EGDI) 2024<br/>
 <br/>
-สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) หรือ DGA ได้จัดทำ แผนพัฒนารัฐบาลดิจิทัลของประเทศไทย พ.ศ. 2566 – 2570 โดยตั้งเป้าหมายในการยกระดับ ดัชนีรัฐบาลอิเล็กทรอนิกส์ (E-Government Development Index: EGDI) ให้ได้อันดับไม่ต่ำกว่าอันดับที่ 40 ของโลก ภายในปี 2570 ซึ่งผลจัดทำล่าสุด EGDI 2024 ในปี 2567 ประเทศไทยอยู่ที่อันดับที่ 52 ของโลก <br/>
+สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) หรือ DGA ได้จัดทำ แผนพัฒนารัฐบาลดิจิทัลของประเทศไทย พ.ศ. 2566 – 2570 โดยตั้งเป้าหมายในการยกระดับ ดัชนีรัฐบาลอิเล็กทรอนิกส์ (E-Government Development Index: EGDI) ให้ได้อันดับไม่ต่ำกว่าอันดับที่ 40 ของโลก ภายในปี 2570 ซึ่งผลที่จัดทำล่าสุด EGDI 2024 ในปี 2567 ประเทศไทยอยู่ที่อันดับที่ 52 ของโลก <br/>
 <br/>
 เพื่อให้บรรลุเป้าหมายดังกล่าว งานชิ้นนี้จึงมีวัตถุประสงค์ในการวิเคราะห์ว่า ประเทศไทยควรมุ่งเน้นการยกระดับดัชนีย่อยใด ที่จะส่งผลต่อการเพิ่มอันดับ EGDI อย่างมีประสิทธิภาพ
 
@@ -9,7 +9,7 @@ E-Government Development Index (EGDI) 2024<br/>
 
 การสำรวจรัฐบาลอิเล็กทรอนิกส์ของสหประชาชาติ (E-Government Survey) เป็นโครงการที่จัดทำขึ้นทุก 2 ปีโดย United Nations Department of Economic and Social Affairs (UN DESA) เริ่มต้นตั้งแต่ปี 2001 การสำรวจนี้มีวัตถุประสงค์เพื่อประเมินสถานะการพัฒนารัฐบาลอิเล็กทรอนิกส์ของ 193 ประเทศสมาชิกสหประชาชาติ โดยมีการจัดทำดัชนีรัฐบาลอิเล็กทรอนิกส์ (E-government development index: EGDI) ซึ่งใช้วัดความก้าวหน้าในระดับประเทศ โดย EGDI เป็นดัชนีรวมที่คำนวณจากค่าเฉลี่ยถ่วงน้ำหนักของดัชนีย่อยที่ผ่านการปรับให้เป็นมาตรฐานแล้ว (normalized indices) 3 ดัชนีย่อย ดังนี้:
 
-<p align="center">รูปภาพที่ 1: The three components of the E-Government Development Index (EGDI)</p>
+<p align="center">รูปภาพที่ 1.1: The three components of the E-Government Development Index (EGDI)</p>
 
 <p align="center">
   <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/f4ec030f-1e14-4059-a32f-ad13691f1d5d" />
@@ -25,36 +25,42 @@ E-Government Development Index (EGDI) 2024<br/>
 โดยทั้ง 3 ดัชนีย่อย มีน้ำหนักอย่างละ 1/3
 <br/>
 <br/>
-ผลการจัดทำดัชนีรัฐบาลอิเล็กทรอนิกส์ (EGDI) ประจำปี 2024 มีรายละเอียดดังนี้
+ผลการจัดทำดัชนีรัฐบาลอิเล็กทรอนิกส์ (EGDI) ประจำปี 2024 ของประเทศ 193 ประเทศ มีรายละเอียดดังนี้
 
-<p align="center">รูปภาพที่ 2: Average of EGDI, OSI, TII, and HCI in 2024</p>
+<p align="center">รูปภาพที่ 1.2: Average of EGDI, OSI, TII, and HCI in 2024</p>
 
 ![plot1 1_Average](https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a)
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/f66d1592-226a-4f14-a253-f718797b722a" alt="plot1 1_Average" width="700" />
-</p>
 
 ค่าเฉลี่ย EGDI อยู่ที่ 0.64 โดยดัชนีย่อย TII มีค่าเฉลี่ยสูงสุดที่ 0.69 แสดงถึงความก้าวหน้าด้านโครงสร้างพื้นฐานทางโทรคมนาคม ในขณะที่ OSI มีค่าเฉลี่ยต่ำสุดที่ 0.58 สะท้อนถึงความท้าทายด้านการให้บริการออนไลน์ ส่วน HCI มีค่าเฉลี่ยอยู่ที่ 0.65 
 
 
 
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
+
+<p align="center">รูปภาพที่ 1.3: Boxplot of EGDI, OSI, TII, and HCI in 2024</p>
 
 
 
 
 ![plot1 2_Boxplot](https://github.com/user-attachments/assets/1a264e47-ca91-4ff5-be9c-e158bbdb761c)
+
+
+กราฟแสดง Boxplot ของ EGDI, OSI, TII และ HCI ในปี 2024 พบว่า TII มีค่า Median สูงสุด แสดงถึงประเทศส่วนใหญ่มีโครงสร้างพื้นฐานโทรคมนาคมที่พัฒนาในระดับสูง ขณะที่ OSI มีค่า Median ต่ำที่สุด และมีค่ากระจายกว้าง และช่วงข้อมูลต่ำสุดถึงสูงสุดกว้างมาก
+
+
+
+
+
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+
 ![plot1 3_histograms](https://github.com/user-attachments/assets/cb647a81-d94b-42ea-ba6e-73b31f30a5fe)
 ![plot1 4_AveragebyRegion](https://github.com/user-attachments/assets/f14617f1-335a-4ef8-9b97-60a70d5050c2)
 ![plot1 5_boxplotbyRegion](https://github.com/user-attachments/assets/19c1b631-6e64-44f0-bab8-b872ec4a596c)
