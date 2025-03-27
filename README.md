@@ -108,11 +108,6 @@ E-Government Development Index (EGDI) 2024<br/>
 
 รูปภาพที่ 1.12 1.13 แสดงค่าเฉลี่ย และ boxplot ของ EGDI, OSI, TII และ HCI จำแนกตามระดับรายได้ของประเทศ ซึ่งผลของดัชนีย่อย OSI, TII และ HCI ค่อนข้างคล้ายกับผล EGDI คือ ระดับรายได้ของประเทศสัมพันธ์กับคะแนนของดัชนีย่อย OSI, TII และ HCI โดยประเทศที่อยู่ในกลุ่มรายได้สูงมีโอกาสที่จะมีผลคะแนนของดัชนีย่อย OSI, TII และ HCI ที่สูงกว่าประเทศที่อยู่ในกลุ่มรายได้ต่ำกว่า
 
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
 
 
 
@@ -120,10 +115,34 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ## Relationship between EGDI and OSI, TII and HCI
 
+<p align="center">รูปภาพที่ 1.14: Scatter Plot Matrix of EGDI, OSI, TII, and HCI in 2024 by Level of Income</p>
+
+![plot1 18_pairplotbyIncome](https://github.com/user-attachments/assets/dcbb94fb-945b-4aa0-aea7-1f4f7e336d15)
+
+รูปภาพที่ 1.14 แสดง Scatter Plot Matrix ของ EGDI, OSI, TII, และ HCI โดยแบ่งสีจำแนกตามระดับรายได้ของประเทศ คือ Low income, Lower-middle income, Upper-middle income และ High income ซึ่งผลที่ออกมา ดูเหมือนว่า EGDI, OSI, TII, และ HCI มีความสัมพันธ์กันในระดับสูง 
+
+<p align="center">รูปภาพที่ 1.15: Correlation Matrix of EGDI, OSI, TII, and HCI in 2024</p>
 
 ![plot1 17_Correlation_Matrix](https://github.com/user-attachments/assets/99598d15-8ff4-4fe0-8cdd-03006c83c35e)
-![plot1 18_pairplotbyIncome](https://github.com/user-attachments/assets/dcbb94fb-945b-4aa0-aea7-1f4f7e336d15)
-![plot1 19_pairplotbyGroup](https://github.com/user-attachments/assets/950986bb-99b8-42ad-bceb-500179909ab4)
+
+รูปภาพที่ 1.14 แสดง Correlation Matrix ของ EGDI, OSI, TII, และ HCI ซึ่งผลออกมา คือ ค่า Correlation ระหว่าง EGDI และ OSI, TII, และ HCI อยู่ที่ 0.91, 0.93, 0.93 ตามลำดับ
+ แสดงถึง EGDI มีความสัมพันธ์กับดัชนีย่อย OSI, TII, และ HCI ในระดับที่สูงมาก 
+
+
+
+
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+
+
+
+
+
+
+
+
 ![plot1 20_lineOSIbyall](https://github.com/user-attachments/assets/5cf9b12a-f295-410d-a984-028fae70dd88)
 ![plot1 21_lineTIIbyall](https://github.com/user-attachments/assets/554644a0-8e33-4a01-9d61-22ca2dc652ad)
 ![plot1 22_lineHCIbyall](https://github.com/user-attachments/assets/83368afd-7330-49d4-9214-b35db671a3a0)
