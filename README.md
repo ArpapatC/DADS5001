@@ -48,22 +48,24 @@ E-Government Development Index (EGDI) 2024<br/>
 กราฟแสดงค่าเฉลี่ย EGDI ในปี 2024 จำแนกตามภูมิภาคต่างๆ 5 ภูมิภาค ได้แก่ แอฟริกา อเมริกา เอเชีย ยุโรป และโอเชียเนีย โดยยุโรป มีค่าเฉลี่ย EGDI สูงที่สุดที่ 0.85 แอฟริกา มีค่าเฉลี่ย EGDI ต่ำที่สุดที่ 0.42
 
 
-<p align="center">รูปภาพที่ 1</p>
-
-
-
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-
-
+<p align="center">รูปภาพที่ 1.5: EGDI in 2024 by Region</p>
 
 ![plot1 5_boxplotbyRegion](https://github.com/user-attachments/assets/19c1b631-6e64-44f0-bab8-b872ec4a596c)
+
+กราฟแสดง Boxplot ของ EGDI ในแต่ละภูมิภาค โดย ยุโรป มีค่า Median สูงที่สุด และมีการกระจายของข้อมูลที่แคบที่สุด แสดงให้เห็นถึงการพัฒนารัฐบาลอิเล็กทรอนิกส์ที่ก้าวหน้าและสม่ำเสมอที่สุด ส่วนแอฟริกา มีค่า Median ต่ำที่สุด และมีการกระจายของข้อมูลค่อนข้างกว้าง แสดงให้เห็นถึงความแตกต่างอย่างมากในการพัฒนารัฐบาลอิเล็กทรอนิกส์ในภูมิภาคนี้ นอกจากนี้ กราฟของ แอฟริกายังมีลักษณะเบ้ขวา แสดงถึงประเทศส่วนใหญ่มีการพัฒนารัฐบาลอิเล็กทรอนิกส์ในระดับค่อนข้างต่ำ
+
+
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+
+
+
 ![plot1 6_PercentagebyRegion](https://github.com/user-attachments/assets/9633b384-229f-4f3c-b40f-6e3eaf45d2d5)
 ![plot1 7_AveragebyIncome](https://github.com/user-attachments/assets/13624067-bd8c-45e7-b307-c232be41ede4)
 ![plot1 8_boxplotbyIncome](https://github.com/user-attachments/assets/08bfc652-e107-43b5-a598-6217df5561ad)
