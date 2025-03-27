@@ -142,7 +142,8 @@ E-Government Development Index (EGDI) 2024<br/>
 
 รูปภาพที่ 1.16 - 1.18 แสดง Regression Line ระหว่าง EGDI และ OSI, TII และ HCI จำแนกตามภูมิภาค ระดับรายได้ของประเทศ (Low income, Lower-middle income, Upper-middle income และ High income) และกลุ่ม EGDI ซึ่งจากกราฟ พบว่า 
 1. Regression Line ระหว่าง EGDI และ OSI, TII และ HCI ที่จำแนกตามภูมิภาค มีความชันของ Regression Line ของแต่ละภูมิภาคใกล้เคียงกัน กล่าวคือ OSI, TII และ HCI ส่งผลต่อ EGDI ของแต่ละภูมิภาคใกล้เคียงกัน
-2. Regression Line ระหว่าง EGDI และ OSI, TII และ HCI ที่จำแนกตามระดับรายได้ของประเทศ 
+2. Regression Line ระหว่าง EGDI และ OSI, TII และ HCI ที่จำแนกตามระดับรายได้ของประเทศ ความชันของของ Regression Line ของกลุ่มประเทศ Low income น้อยกว่ากลุ่มประเทศอื่น สะท้อนว่า OSI, TII และ HCI ส่งผลต่อ EGDI ในกลุ่มประเทศ Low income น้อยกว่ากลุ่มประเทศอื่น นอกจากนี้ Regression Line ระหว่าง EGDI และ TII ของกลุ่มประเทศ High income มีความชันสูงกว่ากลุ่มประเทศอื่น คือ TII ส่งผลต่อ EGDI ในกลุ่มประเทศ High income มากกว่ากลุ่มประเทศอื่น
+3. Regression Line ระหว่าง EGDI และ OSI, TII และ HCI ที่จำแนกตามกลุ่ม EGDI ความชันของของ Regression Line ระหว่าง EGDI และ OSI และ HCI ของกลุ่มประเทศ Low EGDI มีค่าน้อยกว่ากลุ่มอื่น โดยเฉพาะ Regression Line ระหว่าง EGDI และ OSI ที่แทบจะเป็นเส้นตรงขนานกับแกน x คือ OSI แทบไม่มีผลต่อ EGDI เลย ขณะที่ ความชันของของ Regression Line ระหว่าง EGDI และ OSI, TII และ HCI ของกลุ่มประเทศ High EGDI มากกว่ากลุ่มอื่น
 
 
 
