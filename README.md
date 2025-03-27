@@ -128,24 +128,34 @@ E-Government Development Index (EGDI) 2024<br/>
 รูปภาพที่ 1.15 แสดง Correlation Matrix ของ EGDI, OSI, TII, และ HCI ซึ่งผลออกมา คือ ค่า Correlation ระหว่าง EGDI และ OSI, TII, และ HCI อยู่ที่ 0.91, 0.93, 0.93 ตามลำดับ
 แสดงถึง EGDI มีความสัมพันธ์กับดัชนีย่อย OSI, TII, และ HCI ในระดับที่สูงมาก นอกจากนี้ ค่า Correlation ระหว่างดัชนีย่อย OSI, TII, และ HCI ยังมีค่าสูงด้วย คือ อยู่ในระดับ 0.73-0.82 แสดงถึง แต่ละดัชนีย่อยก็มีความสัมพันธ์กันเองในระดับสูงด้วย 
 
-
-
-
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-
-
-
-
-
-
-
+<p align="center">รูปภาพที่ 1.16: Linear Regression between EGDI and OSI by Region, Level of Income, EGDI group</p>
 
 ![plot1 20_lineOSIbyall](https://github.com/user-attachments/assets/5cf9b12a-f295-410d-a984-028fae70dd88)
+
+<p align="center">รูปภาพที่ 1.17: Linear Regression between EGDI and TII by Region, Level of Income, EGDI group</p>
+
 ![plot1 21_lineTIIbyall](https://github.com/user-attachments/assets/554644a0-8e33-4a01-9d61-22ca2dc652ad)
+
+<p align="center">รูปภาพที่ 1.18: Linear Regression between EGDI and HCI by Region, Level of Income, EGDI group</p>
+
 ![plot1 22_lineHCIbyall](https://github.com/user-attachments/assets/83368afd-7330-49d4-9214-b35db671a3a0)
+
+
+
+
+
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+
+
+
+
+
+
+
+
 
 
 # Part 2: How does Thailand perform compared with other countries?
