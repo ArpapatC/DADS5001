@@ -147,24 +147,25 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-
-
-
-
-
-
-
-
 
 
 # Part 2: How does Thailand perform compared with other countries?
 
+<p align="center">รูปภาพที่ 2.1: EGDI Trend of Thailand, Global Average, and Thailand Ranking from 2003 to 2024</p>
 
 ![plot2 0_EGDIandRank](https://github.com/user-attachments/assets/f7554847-75fa-43c9-90d1-4945b9a1b76e)
+
+รูปภาพที่ 2.1 แสดงผลคะแนน EGDI ตั้งแต่ปี 2002 ที่เริ่มมีการจัดทำ EGDI จนถึงปี 2024 ซึ่งเป็นปีล่าสุด โดยกราฟเส้นแสดงคะแนน EGDI ของประเทศไทย เทียบกับ ค่าเฉลี่ย EGDI ของโลก (ใช้ y axis ทางซ้าย) และอันดับ EGDI ของประเทศไทยจาก 193 ประเทศ (ใช้ y axis ทางขวา)
+
+
+
+<p align="center">รูปภาพที่ 2</p>
+<p align="center">รูปภาพที่ 2</p>
+<p align="center">รูปภาพที่ 2</p>
+
+
+
+
 ![plot2 1_EGDIofAllCountries](https://github.com/user-attachments/assets/5b0bd2df-d4cc-4276-b8e5-009db6904d3a)
 ![plot2 2_ComparisonEGDI](https://github.com/user-attachments/assets/9b52b580-4fec-49b7-8628-0801fabd64fb)
 ![plot2 3_BoxplotEGDIbyAll](https://github.com/user-attachments/assets/2cdfff03-20b3-4450-a409-a57d531d54b5)
