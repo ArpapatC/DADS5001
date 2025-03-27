@@ -38,13 +38,13 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ![plot1 2_Boxplot](https://github.com/user-attachments/assets/1a264e47-ca91-4ff5-be9c-e158bbdb761c)
 
-กราฟแสดง Boxplot ของ EGDI, OSI, TII และ HCI ในปี 2024 พบว่า TII มีค่า Median สูงสุด แสดงถึงประเทศส่วนใหญ่มีโครงสร้างพื้นฐานโทรคมนาคมที่พัฒนาในระดับสูง ขณะที่ OSI มีค่า Median ต่ำที่สุด และมีค่ากระจายกว้าง
+กราฟแสดง Boxplot ของ EGDI, OSI, TII และ HCI ในปี 2024 พบว่า TII มีค่า Median สูงสุด และมีลักษณะเบ้ซ้าย แสดงถึงประเทศส่วนใหญ่มีโครงสร้างพื้นฐานโทรคมนาคมที่พัฒนาในระดับสูง เช่นเดียวกับ HCI มีกราฟมีลักษณะเบ้ซ้ายเช่นกัน ขณะที่ OSI มีค่า Median ต่ำที่สุด และมีค่ากระจายกว้าง
+
+
+<p align="center">รูปภาพที่ 1.4</p>
 
 
 
-
-
-<p align="center">รูปภาพที่ 1</p>
 <p align="center">รูปภาพที่ 1</p>
 <p align="center">รูปภาพที่ 1</p>
 <p align="center">รูปภาพที่ 1</p>
@@ -55,7 +55,7 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">รูปภาพที่ 1</p>
 <p align="center">รูปภาพที่ 1</p>
 
-![plot1 3_histograms](https://github.com/user-attachments/assets/cb647a81-d94b-42ea-ba6e-73b31f30a5fe)
+
 ![plot1 4_AveragebyRegion](https://github.com/user-attachments/assets/f14617f1-335a-4ef8-9b97-60a70d5050c2)
 ![plot1 5_boxplotbyRegion](https://github.com/user-attachments/assets/19c1b631-6e64-44f0-bab8-b872ec4a596c)
 ![plot1 6_PercentagebyRegion](https://github.com/user-attachments/assets/9633b384-229f-4f3c-b40f-6e3eaf45d2d5)
