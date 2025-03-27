@@ -40,6 +40,8 @@ E-Government Development Index (EGDI) 2024<br/>
 
 กราฟแสดง Boxplot ของ EGDI, OSI, TII และ HCI ในปี 2024 โดย Boxplot แต่ละอันแสดงค่าต่ำสุด ค่าควอไทล์ที่ 1 ค่า Median ค่าควอไทล์ที่ 3 และค่าสูงสุดของ EGDI และดัชนีย่อย ซึ่งจากกราฟ พบว่า TII มีค่า Median สูงสุด และมีลักษณะเบ้ซ้าย แสดงถึงประเทศส่วนใหญ่มีโครงสร้างพื้นฐานโทรคมนาคมที่พัฒนาในระดับสูง เช่นเดียวกับ HCI ที่มีกราฟมีลักษณะเบ้ซ้ายเช่นกัน ขณะที่ OSI มีค่า Median ต่ำที่สุด และมีค่ากระจายค่อนข้างกว้าง และมี Interquartile Range ค่อนข้างมากกว่าดัชนีย่อยตัวอื่น แสดงถึงค่า OSI ของแต่ละประเทศค่อนข้างห่างกัน
 
+
+
 ## Comparison of EGDI Across Regions
 
 <p align="center">รูปภาพที่ 1.4: Average EGDI in 2024 by Region</p>
@@ -61,18 +63,15 @@ E-Government Development Index (EGDI) 2024<br/>
 
 กราฟแท่งแสดงร้อยละของ จำนวนประเทศที่อยู่ในกลุ่ม EGDI ในระดับต่างๆ คือ low EGDI, Middle EGDI, High EGDI, Very High EGDI จำแนกตามภูมิภาค โดยยุโรป มีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI มากที่สุด คือ 83.7% และไม่มีประเทศที่อยู่ในกลุ่ม low EGDI, Middle EGDI เลย ซึ่งสอดคล้องกับรูปภาพที่ 1.4 และ 1.5 คือ ยุโรปมีความโดดเด่นอย่างชัดเจนในด้านการพัฒนารัฐบาลอิเล็กทรอนิกส์ ขณะที่ เอเชีย มีระดับการพัฒนาที่ค่อนข้างหลากหลาย โดยมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI สูงรองลงมาจากยุโรป คือ 53.2% และมีทั้งประเทศที่อยู่ในกลุ่ม High EGDI และประเทศที่อยู่ในกลุ่ม Middle EGDI ส่วนแอฟริกา มีสัดส่วนประเทศที่อยู่ในกลุ่ม Very High EGDI เพียง 3.7% และมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Low EGDI และ Middle EGDI สูงถึง 13.0% และ 51.9% ตามลำดับ
 
-<p align="center">รูปภาพที่ 1.7: Average EGDI, OSI, TII and HCI in 2024 by Region (100% Stacked)</p>
+<p align="center">รูปภาพที่ 1.7: Average EGDI, OSI, TII and HCI in 2024 by Region</p>
 
 ![plot1 11_AverageallbyRegion](https://github.com/user-attachments/assets/179ecd71-5c7e-4622-b636-1a846f24a005)
 
-<p align="center">รูปภาพที่ 1.8: EGDI, OSI, TII and HCI in 2024 by Region (100% Stacked)</p>
+<p align="center">รูปภาพที่ 1.8: EGDI, OSI, TII and HCI in 2024 by Region</p>
 
 ![plot1 12_boxplotallbyRegion](https://github.com/user-attachments/assets/d3986fc5-aebb-4f8a-ad03-3c932eeb327a)
 
 รูปภาพที่ 1.7 1.8 แสดงค่าเฉลี่ย และ boxplot ของ EGDI, OSI, TII and HCI จำแนกตามภูมิภาค ซึ่งผลของดัชนีย่อย OSI, TII and HCI ค่อนข้างคล้ายกับผล EGDI คือ ยุโรป มีค่าเฉลี่ย และค่า Median สูงที่สุด และแอฟริกา มีค่าเฉลี่ย และค่า Median ต่ำที่สุด ยกเว้น OSI ที่ค่า Median ของโอเชียเนียต่ำกว่าแอฟริกา นอกจากนี้ ยังมีประเด็นอื่นๆ ที่น่าสนใจ เช่น สำหรับแอฟริกา การกระจายของค่า EGDI ภายในภูมิภาค มาจากการกระจายของ TII คือ มีความแตกต่างด้านโครงสร้างพื้นฐานโทรคมนาคมระหว่างประเทศภายในภูมิภาค ขณะที่อเมริกา มีการกระจายทางด้าน OSI หรือด้านบริการภาครัฐที่สูงกว่าดัชนีย่อยอื่น ส่วนยุโรป มีค่า TII ที่โดดเด่นกว่าดัชนีย่อยอื่น และค่อนข้างกระจุกตัวอยู่ในระดับสูง นอกจากนี้ ขณะที่ภูมิภาคอื่นมีค่า TII ที่สูงกว่าดัชนีย่อยอื่น แต่โอเชียเนียกลับมีความโดดเด่นที่ HCI หรือดัชนีทุนมนุษย์ ที่สูงกว่าดัชนีย่อยอื่น
-<br/>
-<br/>
-
 
 
 
@@ -95,18 +94,25 @@ E-Government Development Index (EGDI) 2024<br/>
 <br/>
 ซึ่งจากกราฟทั้ง 3 รูป ค่อนข้างชัดเจนว่าระดับรายได้ของประเทศสัมพันธ์กับคะแนน EGDI โดยประเทศที่อยู่ในกลุ่มรายได้สูงมีโอกาสที่จะมีผลคะแนน EGDI ที่สูงกว่าประเทศที่อยู่ในกลุ่มรายได้ต่ำกว่า
 
-
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-
-
-
+<p align="center">รูปภาพที่ 1.12: Average EGDI, OSI, TII and HCI in 2024 by Level of Income</p>
 
 ![plot1 13_AverageallbyIncome](https://github.com/user-attachments/assets/0849d1b2-5dbe-4137-bdbf-33a5641b6d00)
+
+<p align="center">รูปภาพที่ 1.13: EGDI, OSI, TII and HCI in 2024 by Level of Income</p>
+
 ![plot1 14_boxplotallbyIncome](https://github.com/user-attachments/assets/9eafab63-7635-4146-8f99-92116163c015)
+
+
+
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+
+
+
+
 ![plot1 15_AverageallbyGroup](https://github.com/user-attachments/assets/fd859a79-f81d-4091-a494-ee2273442907)
 ![plot1 16_boxplotallbyGroup](https://github.com/user-attachments/assets/896563ff-4e4d-497f-b6b7-d5a4fbe24583)
 ![plot1 17_Correlation_Matrix](https://github.com/user-attachments/assets/99598d15-8ff4-4fe0-8cdd-03006c83c35e)
