@@ -63,19 +63,19 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ## Comparison of EGDI Across Income Levels
 
-<p align="center">รูปภาพที่ 1.7: Average EGDI in 2024 by Level of Income</p>
+<p align="center">รูปภาพที่ 1.9: Average EGDI in 2024 by Level of Income</p>
 
 ![plot1 7_AveragebyIncome](https://github.com/user-attachments/assets/13624067-bd8c-45e7-b307-c232be41ede4)
 
-<p align="center">รูปภาพที่ 1.8: EGDI in 2024 by Level of Income</p>
+<p align="center">รูปภาพที่ 1.10: EGDI in 2024 by Level of Income</p>
 
 ![plot1 8_boxplotbyIncome](https://github.com/user-attachments/assets/08bfc652-e107-43b5-a598-6217df5561ad)
 
-<p align="center">รูปภาพที่ 1.9: Percentage of countries in each EGDI group by Level of Income (100% Stacked)</p>
+<p align="center">รูปภาพที่ 1.11: Percentage of countries in each EGDI group by Level of Income (100% Stacked)</p>
 
 ![plot1 9_PercentagebyIncome](https://github.com/user-attachments/assets/f0ee9aa2-1c05-4c1d-981b-e7e47d8377b1)
 
-รูปภาพที่ 1.7-1.9 แสดงถึงผล EGDI ของประเทศต่างๆ จำแนกตามระดับรายได้ โดยรูปภาพที่ 1.7 เป็นกราฟแสดงค่าเฉลี่ย EGDI ในปี 2024 จำแนกตามระดับรายได้ของประเทศ คือ Low income, Lower-middle income, Upper-middle income และ High income รูปภาพที่ 1.8 กราฟแสดง Boxplot ของ EGDI จำแนกตามระดับรายได้ของประเทศ และ รูปภาพที่ 1.9 เป็นกราฟแท่งแสดงร้อยละของ จำนวนประเทศที่อยู่ในกลุ่ม EGDI ในระดับต่างๆ คือ low EGDI, Middle EGDI, High EGDI, Very High EGDI จำแนกตามระดับรายได้ของประเทศ 
+รูปภาพที่ 1.9-1.11 แสดงถึงผล EGDI ของประเทศต่างๆ จำแนกตามระดับรายได้ โดยรูปภาพที่ 1.9 เป็นกราฟแสดงค่าเฉลี่ย EGDI ในปี 2024 จำแนกตามระดับรายได้ของประเทศ คือ Low income, Lower-middle income, Upper-middle income และ High income รูปภาพที่ 1.10 กราฟแสดง Boxplot ของ EGDI จำแนกตามระดับรายได้ของประเทศ และ รูปภาพที่ 1.11 เป็นกราฟแท่งแสดงร้อยละของ จำนวนประเทศที่อยู่ในกลุ่ม EGDI ในระดับต่างๆ คือ low EGDI, Middle EGDI, High EGDI, Very High EGDI จำแนกตามระดับรายได้ของประเทศ 
 <br/>
 <br/>
 ซึ่งจากกราฟทั้ง 3 รูป ค่อนข้างชัดเจนว่าระดับรายได้ของประเทศสัมพันธ์กับคะแนน EGDI โดยประเทศที่อยู่ในกลุ่มรายได้สูงมีโอกาสที่จะมีผลคะแนน EGDI ที่สูงกว่าประเทศที่อยู่ในกลุ่มรายได้ต่ำกว่า
