@@ -40,7 +40,7 @@ E-Government Development Index (EGDI) 2024<br/>
 
 กราฟแสดง Boxplot ของ EGDI, OSI, TII และ HCI ในปี 2024 โดย Boxplot แต่ละอันแสดงค่าต่ำสุด ค่าควอไทล์ที่ 1 ค่า Median ค่าควอไทล์ที่ 3 และค่าสูงสุดของ EGDI และดัชนีย่อย ซึ่งจากกราฟ พบว่า TII มีค่า Median สูงสุด และมีลักษณะเบ้ซ้าย แสดงถึงประเทศส่วนใหญ่มีโครงสร้างพื้นฐานโทรคมนาคมที่พัฒนาในระดับสูง เช่นเดียวกับ HCI ที่มีกราฟมีลักษณะเบ้ซ้ายเช่นกัน ขณะที่ OSI มีค่า Median ต่ำที่สุด และมีค่ากระจายกว้าง กล่าวคือ 
 
-## เปรียบผล EGDI ระหว่างภูมิภาค
+## Comparison of EGDI Across Regions
 
 <p align="center">รูปภาพที่ 1.4: Average EGDI in 2024 by Region</p>
 
@@ -60,6 +60,8 @@ E-Government Development Index (EGDI) 2024<br/>
 ![plot1 6_PercentagebyRegion](https://github.com/user-attachments/assets/9633b384-229f-4f3c-b40f-6e3eaf45d2d5)
 
 กราฟแท่งแสดงร้อยละของ จำนวนประเทศที่อยู่ในกลุ่ม EGDI ในระดับต่างๆ คือ low EGDI, Middle EGDI, High EGDI, Very High EGDI จำแนกตามภูมิภาค โดยยุโรป มีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI มากที่สุด คือ 83.7% และไม่มีประเทศที่อยู่ในกลุ่ม low EGDI, Middle EGDI เลย ซึ่งสอดคล้องกับรูปภาพที่ 1.4 และ 1.5 คือ ยุโรปมีความโดดเด่นอย่างชัดเจนในด้านการพัฒนารัฐบาลอิเล็กทรอนิกส์ ขณะที่ เอเชีย มีการกระจายที่ค่อนข้างสมดุล โดยมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI สูงรองลงมาจากยุโรป คือ 53.2% แสดงให้เห็นถึงความหลากหลายในการพัฒนา โดยมีทั้งประเทศที่อยู่ในกลุ่ม High EGDI และประเทศที่อยู่ในกลุ่ม Middle EGDI ส่วนแอฟริกา มีสัดส่วนประเทศที่อยู่ในกลุ่ม Very High EGDI เพียง 3.7% และมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Low EGDI และ Middle EGDI" สูงถึง 13.0% และ 51.9% ตามลำดับ
+
+## Comparison of EGDI Across Income Levels
 
 <p align="center">รูปภาพที่ 1.7: Average EGDI in 2024 by Level of Income</p>
 
