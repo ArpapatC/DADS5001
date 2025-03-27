@@ -157,18 +157,33 @@ E-Government Development Index (EGDI) 2024<br/>
 
 รูปภาพที่ 2.1 แสดงผลคะแนน EGDI ตั้งแต่ปี 2002 ที่เริ่มมีการจัดทำ EGDI จนถึงปี 2024 ซึ่งเป็นปีล่าสุด โดยกราฟเส้นแสดงคะแนน EGDI ของประเทศไทย เทียบกับ ค่าเฉลี่ย EGDI ของโลก (ใช้ y axis ทางซ้าย) และอันดับ EGDI ของประเทศไทยจาก 193 ประเทศ (ใช้ y axis ทางขวา) ซึ่งพบว่า ประเทศไทยมีคะแนนมากกว่าค่าเฉลี่ยเกือบทุกปี ยกเว้นปี 2014 นอกจากนี้ ประเทศไทยมีคะแนน EGDI และอันดับ EGDI เพิ่มขึ้นตั้งแต่ปี 2014 โดยคะแนนของประเทศไทยเพิ่มขึ้นในอัตราที่มากกว่าค่าเฉลี่ย จนได้คะแนน EGDI 0.84 และ อันดับ EGDI ที่ 52 จาก 193 ประเทศ ในปี 2024
 
-
-
-<p align="center">รูปภาพที่ 2</p>
-<p align="center">รูปภาพที่ 2</p>
-<p align="center">รูปภาพที่ 2</p>
-
-
-
+<p align="center">รูปภาพที่ 2.2: EGDI of All Countries (Thailand Highlighted)</p>
 
 ![plot2 1_EGDIofAllCountries](https://github.com/user-attachments/assets/5b0bd2df-d4cc-4276-b8e5-009db6904d3a)
+
+รูปภาพที่ 2.2 แสดงคะแนน EGDI ของทุกประเทศเรียงจากมากที่สุดไปจนถึงน้อยที่สุด โดยไฮไลท์ประเทศไทยเป็นสีแดง และมีเส้นค่าเฉลี่ย EGDI ของโลกแสดงด้วยเส้นประสีน้ำเงิน และค่าเฉลี่ย EGDI แสดงด้วยตัวเลขสีน้ำเงิน ซึ่งจากกราฟจะเห็นว่าประเทศไทย มีคะแนน EGDI สูงกว่าค่าเฉลี่ย
+
+<p align="center">รูปภาพที่ 2.3: Comparison of Thailand EGDI and Global, Asia, South-East Asia, Upper-Middle Income, and Very High EGDI Averages</p>
+
 ![plot2 2_ComparisonEGDI](https://github.com/user-attachments/assets/9b52b580-4fec-49b7-8628-0801fabd64fb)
+
+<p align="center">รูปภาพที่ 2.4: Boxplot of EGDI, EGDI for Asia, EGDI for South-Eastern Asia, EGDI for UMc Countries, EGDI for Very High EGDI Countries</p>
+
 ![plot2 3_BoxplotEGDIbyAll](https://github.com/user-attachments/assets/2cdfff03-20b3-4450-a409-a57d531d54b5)
+
+
+
+
+
+
+<p align="center">รูปภาพที่ 2</p>
+<p align="center">รูปภาพที่ 2</p>
+<p align="center">รูปภาพที่ 2</p>
+<p align="center">รูปภาพที่ 2</p>
+
+
+
+
 ![plot2 4_ComparisonOSI](https://github.com/user-attachments/assets/1873bf8d-55dc-4def-b7c9-c47ec1cadc4f)
 ![plot2 5_BoxplotOSIbyAll](https://github.com/user-attachments/assets/56824eb4-78fc-4dfb-ae1e-1b98e51ec8f2)
 ![plot2 6_ComparisonTII](https://github.com/user-attachments/assets/9099738e-85db-4791-ae85-0d2305346d0b)
