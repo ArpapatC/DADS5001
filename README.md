@@ -140,7 +140,9 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ![plot1 22_lineHCIbyall](https://github.com/user-attachments/assets/83368afd-7330-49d4-9214-b35db671a3a0)
 
-
+รูปภาพที่ 1.16 - 1.18 แสดง Regression Line ระหว่าง EGDI และ OSI, TII และ HCI จำแนกตามภูมิภาค ระดับรายได้ของประเทศ (Low income, Lower-middle income, Upper-middle income และ High income) และกลุ่ม EGDI ซึ่งจากกราฟ พบว่า 
+1. Regression Line ระหว่าง EGDI และ OSI, TII และ HCI ที่จำแนกตามภูมิภาค มีความชันของ Regression Line ของแต่ละภูมิภาคใกล้เคียงกัน กล่าวคือ OSI, TII และ HCI ส่งผลต่อ EGDI ของแต่ละภูมิภาคใกล้เคียงกัน
+2. 
 
 
 
@@ -148,6 +150,8 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">รูปภาพที่ 1</p>
 <p align="center">รูปภาพที่ 1</p>
 <p align="center">รูปภาพที่ 1</p>
+
+
 
 
 
@@ -160,6 +164,7 @@ E-Government Development Index (EGDI) 2024<br/>
 
 # Part 2: How does Thailand perform compared with other countries?
 
+![plot2 0_EGDIandRank](https://github.com/user-attachments/assets/12685ff8-e0b6-4697-9fb0-63296eabe9d7)
 ![plot2 1_ComparisonEGDI](https://github.com/user-attachments/assets/26521d34-9267-4cf6-b34f-914465b039db)
 ![plot2 2_EGDIofAllCountries](https://github.com/user-attachments/assets/88923d59-e17a-4c7c-a74c-fa3e6f8cebd2)
 ![plot2 3_BoxplotEGDIbyAll](https://github.com/user-attachments/assets/0fa93a19-c846-4b69-b0af-7bb0a6d67628)
@@ -180,7 +185,7 @@ E-Government Development Index (EGDI) 2024<br/>
 ![plot3 5_DifferenceMaxTII](https://github.com/user-attachments/assets/54315a59-d0ee-4209-aff2-a71bfcdb1810)
 ![plot3 6_ComparisonsubHCI](https://github.com/user-attachments/assets/dfcedc6c-0972-4fe9-a4ce-8dfd65114f16)
 ![plot3 7_DifferenceMaxHCI](https://github.com/user-attachments/assets/c574ebc5-427e-4601-b662-359d1d0b2ac9)
-![plot3 8_EGDITrend](https://github.com/user-attachments/assets/52b8ea4e-f069-4fea-afa4-c8eac4fe4543)
+![plot3 8_EGDITrend](https://github.com/user-attachments/assets/e0bdc709-4e7a-4359-8014-ceb597a4d210)
 ![plot3 9_EGDIandTarget](https://github.com/user-attachments/assets/612e956a-5c02-45f7-bccb-885e60ef6c26)
 
 
