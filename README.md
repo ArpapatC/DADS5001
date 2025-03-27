@@ -163,16 +163,25 @@ E-Government Development Index (EGDI) 2024<br/>
 
 # Part 2: How does Thailand perform compared with other countries?
 
-![plot2 0_EGDIandRank](https://github.com/user-attachments/assets/12685ff8-e0b6-4697-9fb0-63296eabe9d7)
-![plot2 1_ComparisonEGDI](https://github.com/user-attachments/assets/26521d34-9267-4cf6-b34f-914465b039db)
-![plot2 2_EGDIofAllCountries](https://github.com/user-attachments/assets/88923d59-e17a-4c7c-a74c-fa3e6f8cebd2)
-![plot2 3_BoxplotEGDIbyAll](https://github.com/user-attachments/assets/0fa93a19-c846-4b69-b0af-7bb0a6d67628)
-![plot2 4_ComparisonOSI](https://github.com/user-attachments/assets/37b7dd9d-c10f-43b6-bf86-d84d8d59d82f)
-![plot2 5_BoxplotOSIbyAll](https://github.com/user-attachments/assets/669fe7f0-81a4-49e6-b012-6d48cf41efa8)
-![plot2 6_ComparisonTII](https://github.com/user-attachments/assets/f57a4f4d-896c-4076-a119-afdca4b3c0b2)
-![plot2 7_BoxplotTIIbyAll](https://github.com/user-attachments/assets/c4789d4f-eed7-49dc-befa-fe918282793e)
-![plot2 8_ComparisonHCI](https://github.com/user-attachments/assets/b10961c5-bcc3-4e88-99f7-4bbf712bab24)
-![plot2 9_BoxplotHCIbyAll](https://github.com/user-attachments/assets/8cf61d53-39bb-4701-a602-3b36086539ff)
+
+![plot2 0_EGDIandRank](https://github.com/user-attachments/assets/f7554847-75fa-43c9-90d1-4945b9a1b76e)
+![plot2 1_EGDIofAllCountries](https://github.com/user-attachments/assets/5b0bd2df-d4cc-4276-b8e5-009db6904d3a)
+![plot2 2_ComparisonEGDI](https://github.com/user-attachments/assets/9b52b580-4fec-49b7-8628-0801fabd64fb)
+![plot2 3_BoxplotEGDIbyAll](https://github.com/user-attachments/assets/2cdfff03-20b3-4450-a409-a57d531d54b5)
+![plot2 4_ComparisonOSI](https://github.com/user-attachments/assets/1873bf8d-55dc-4def-b7c9-c47ec1cadc4f)
+![plot2 5_BoxplotOSIbyAll](https://github.com/user-attachments/assets/56824eb4-78fc-4dfb-ae1e-1b98e51ec8f2)
+![plot2 6_ComparisonTII](https://github.com/user-attachments/assets/9099738e-85db-4791-ae85-0d2305346d0b)
+![plot2 7_BoxplotTIIbyAll](https://github.com/user-attachments/assets/d6367a56-1a7f-4230-aa1e-0ce9967ac2e6)
+![plot2 8_ComparisonHCI](https://github.com/user-attachments/assets/37c94590-f65f-47cb-9b47-59345d69daea)
+![plot2 9_BoxplotHCIbyAll](https://github.com/user-attachments/assets/d64659ca-ee8a-40b9-85ce-fb7070430a20)
+
+
+
+
+
+
+
+
 
 
 # Part 3: Which sub-indices should be prioritized to enhance Thailand's EGDI ranking?
