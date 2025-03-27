@@ -61,6 +61,16 @@ E-Government Development Index (EGDI) 2024<br/>
 
 กราฟแท่งแสดงร้อยละของ จำนวนประเทศที่อยู่ในกลุ่ม EGDI ในระดับต่างๆ คือ low EGDI, Middle EGDI, High EGDI, Very High EGDI จำแนกตามภูมิภาค โดยยุโรป มีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI มากที่สุด คือ 83.7% และไม่มีประเทศที่อยู่ในกลุ่ม low EGDI, Middle EGDI เลย ซึ่งสอดคล้องกับรูปภาพที่ 1.4 และ 1.5 คือ ยุโรปมีความโดดเด่นอย่างชัดเจนในด้านการพัฒนารัฐบาลอิเล็กทรอนิกส์ ขณะที่ เอเชีย มีการกระจายที่ค่อนข้างสมดุล โดยมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI สูงรองลงมาจากยุโรป คือ 53.2% แสดงให้เห็นถึงความหลากหลายในการพัฒนา โดยมีทั้งประเทศที่อยู่ในกลุ่ม High EGDI และประเทศที่อยู่ในกลุ่ม Middle EGDI ส่วนแอฟริกา มีสัดส่วนประเทศที่อยู่ในกลุ่ม Very High EGDI เพียง 3.7% และมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Low EGDI และ Middle EGDI" สูงถึง 13.0% และ 51.9% ตามลำดับ
 
+<p align="center">รูปภาพที่ 1.7: Average EGDI, OSI, TII and HCI in 2024 by Region (100% Stacked)</p>
+
+![plot1 11_AverageallbyRegion](https://github.com/user-attachments/assets/179ecd71-5c7e-4622-b636-1a846f24a005)
+
+<p align="center">รูปภาพที่ 1.8: EGDI, OSI, TII and HCI in 2024 by Region (100% Stacked)</p>
+
+![plot1 12_boxplotallbyRegion](https://github.com/user-attachments/assets/d3986fc5-aebb-4f8a-ad03-3c932eeb327a)
+
+
+
 ## Comparison of EGDI Across Income Levels
 
 <p align="center">รูปภาพที่ 1.9: Average EGDI in 2024 by Level of Income</p>
@@ -90,8 +100,6 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
-![plot1 11_AverageallbyRegion](https://github.com/user-attachments/assets/179ecd71-5c7e-4622-b636-1a846f24a005)
-![plot1 12_boxplotallbyRegion](https://github.com/user-attachments/assets/d3986fc5-aebb-4f8a-ad03-3c932eeb327a)
 ![plot1 13_AverageallbyIncome](https://github.com/user-attachments/assets/0849d1b2-5dbe-4137-bdbf-33a5641b6d00)
 ![plot1 14_boxplotallbyIncome](https://github.com/user-attachments/assets/9eafab63-7635-4146-8f99-92116163c015)
 ![plot1 15_AverageallbyGroup](https://github.com/user-attachments/assets/fd859a79-f81d-4091-a494-ee2273442907)
