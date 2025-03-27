@@ -60,22 +60,30 @@ E-Government Development Index (EGDI) 2024<br/>
 
 กราฟแท่งแสดงร้อยละของ จำนวนประเทศที่อยู่ในกลุ่ม EGDI ในระดับต่างๆ คือ low EGDI, Middle EGDI, High EGDI, Very High EGDI โดยยุโรป มีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI มากที่สุด คือ 83.7% และไม่มีประเทศที่อยู่ในกลุ่ม low EGDI, Middle EGDI เลย ซึ่งสอดคล้องกับรูปภาพที่ 1.4 และ 1.5 คือ ยุโรปมีความโดดเด่นอย่างชัดเจนในด้านการพัฒนารัฐบาลอิเล็กทรอนิกส์ ขณะที่ เอเชีย มีการกระจายที่ค่อนข้างสมดุล โดยมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Very High EGDI สูงรองลงมาจากยุโรป คือ 53.2% แสดงให้เห็นถึงความหลากหลายในการพัฒนา โดยมีทั้งประเทศที่อยู่ในกลุ่ม High EGDI และประเทศที่อยู่ในกลุ่ม Middle EGDI ส่วนแอฟริกา มีสัดส่วนประเทศที่อยู่ในกลุ่ม Very High EGDI เพียง 3.7% และมีสัดส่วนของประเทศที่อยู่ในกลุ่ม Low EGDI และ Middle EGDI" สูงถึง 13.0% และ 51.9% ตามลำดับ
 
-
-
-
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-<p align="center">รูปภาพที่ 1</p>
-
-
+<p align="center">รูปภาพที่ 1.7: Average EGDI in 2024 by Level of Income</p>
 
 ![plot1 7_AveragebyIncome](https://github.com/user-attachments/assets/13624067-bd8c-45e7-b307-c232be41ede4)
+
+<p align="center">รูปภาพที่ 1.8: EGDI in 2024 by Level of Income</p>
+
 ![plot1 8_boxplotbyIncome](https://github.com/user-attachments/assets/08bfc652-e107-43b5-a598-6217df5561ad)
+
+<p align="center">รูปภาพที่ 1.9: Percentage of countries in each EGDI group by Level of Income (100% Stacked)</p>
+
 ![plot1 9_PercentagebyIncome](https://github.com/user-attachments/assets/f0ee9aa2-1c05-4c1d-981b-e7e47d8377b1)
+
+
+
+
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+<p align="center">รูปภาพที่ 1</p>
+
+
+
+
 ![plot1 11_AverageallbyRegion](https://github.com/user-attachments/assets/179ecd71-5c7e-4622-b636-1a846f24a005)
 ![plot1 12_boxplotallbyRegion](https://github.com/user-attachments/assets/d3986fc5-aebb-4f8a-ad03-3c932eeb327a)
 ![plot1 13_AverageallbyIncome](https://github.com/user-attachments/assets/0849d1b2-5dbe-4137-bdbf-33a5641b6d00)
