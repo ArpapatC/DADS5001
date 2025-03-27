@@ -126,7 +126,7 @@ E-Government Development Index (EGDI) 2024<br/>
 ![plot1 17_Correlation_Matrix](https://github.com/user-attachments/assets/99598d15-8ff4-4fe0-8cdd-03006c83c35e)
 
 รูปภาพที่ 1.14 แสดง Correlation Matrix ของ EGDI, OSI, TII, และ HCI ซึ่งผลออกมา คือ ค่า Correlation ระหว่าง EGDI และ OSI, TII, และ HCI อยู่ที่ 0.91, 0.93, 0.93 ตามลำดับ
- แสดงถึง EGDI มีความสัมพันธ์กับดัชนีย่อย OSI, TII, และ HCI ในระดับที่สูงมาก 
+แสดงถึง EGDI มีความสัมพันธ์กับดัชนีย่อย OSI, TII, และ HCI ในระดับที่สูงมาก นอกจากนี้ ค่า Correlation ระหว่างดัชนีย่อย OSI, TII, และ HCI ยังมีค่าสูงด้วย คือ อยู่ในระดับ 0.73-0.82 แสดงถึง แต่ละดัชนีย่อยก็มีความสัมพันธ์กันเองในระดับสูงด้วย 
 
 
 
