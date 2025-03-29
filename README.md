@@ -397,14 +397,14 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">รูปภาพที่ 4.2: EGDI target score</p>
 
 <p align="center">
-  <img width="423" alt="EGDI target score" src="https://github.com/user-attachments/assets/f19cf89b-8655-47d7-bd45-56ecd2cf64f9" />
+  <img width="700" alt="EGDI target score" src="https://github.com/user-attachments/assets/f19cf89b-8655-47d7-bd45-56ecd2cf64f9" />
 </p>
 
 <p align="center">รูปภาพที่ 4.3: EGDI target score for Thailand to reach a ranking of 40th</p>
 
 ![plot3 12_EGDIandTarget](https://github.com/user-attachments/assets/45ec6215-d436-4ae3-bddc-14ba76a11b41)
 
-
+รูปภาพที่ 4.3 แสดงค่าเป้าหมายของประเทศไทย เพื่อยกระดับ EGDI ไปสู่อันดับที่ 40 เทียบกับค่าเป้าหมาย
 
 
 
