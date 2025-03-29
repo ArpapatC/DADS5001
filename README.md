@@ -246,7 +246,7 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">รูปภาพที่ 3.3: z-score formular</p>
 
 <p align="center">
-  <img width="455" alt="OSI Zscore" src="https://github.com/user-attachments/assets/b3345d88-0a45-4e39-955f-f2c3583cf7bc" />
+  <img width="600" alt="OSI Zscore" src="https://github.com/user-attachments/assets/b3345d88-0a45-4e39-955f-f2c3583cf7bc" />
 </p>
 ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
 <br/>
@@ -261,7 +261,7 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">รูปภาพที่ 3.5: OSI formular</p>
 
 <p align="center">
-  <img width="443" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
+  <img width="600" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
 </p>
 ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
 <br/>
@@ -315,7 +315,7 @@ E-Government Development Index (EGDI) 2024<br/>
 ![plot3 2_ThailandandMaxZscoreOSI](https://github.com/user-attachments/assets/2bb96791-70f3-4803-89b8-41d9fa88cd4d)
 
 จากนั้น ได้นำมาคำนวณ OSI ตามสูตร
-<p align="center">รูปภาพที่ 3.3: OSI formular</p>
+<p align="center">รูปภาพที่ 3.5: OSI formular</p>
 
 <p align="center">
   <img width="443" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
@@ -325,11 +325,11 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ทำให้เห็นว่า คะแนนแต่ละดัชนีย่อยที่ประเทศไทยยังสามารถเพิ่มได้ คือ ส่วนต่างระหว่าง Max Z-Score * น้ำหนักของดัชนีย่อย ทำให้ได้ออกมาเป็น
 
-<p align="center">รูปภาพที่ 3.4: Thailand's Weighted Difference from the Maximum Z-Score for OSI Sub-Indices</p>
+<p align="center">รูปภาพที่ 3.6: Thailand's Weighted Difference from the Maximum Z-Score for OSI Sub-Indices</p>
 
 ![plot3 3_DifferenceMaxOSI](https://github.com/user-attachments/assets/87357e89-1a00-456e-9732-a4d2fd7a2ba1)
 
-จากรูปภาพที่ 3.4 จะเห็นว่า ดัชนีย่อยภายใต้ OSI ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Service Provision รองลงมา คือ E-Participation
+จากรูปภาพที่ 3.6 จะเห็นว่า ดัชนีย่อยภายใต้ OSI ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Service Provision รองลงมา คือ E-Participation
 
 
 
