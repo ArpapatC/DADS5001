@@ -245,7 +245,18 @@ E-Government Development Index (EGDI) 2024<br/>
 <br/>
 อย่างไรก็ตาม UN ไม่ได้นำคะแนนดิบที่โชว์ในกราฟนี้ไปใช้คิดคะแนนของ OSI เลย แต่ UN จะคิดค่า z-score ของดัชนีย่อยก่อนนำไปหาค่าเฉลี่ยถ่วงน้ำหนัก แล้วออกมาเป็น ค่า OSI  
 
-<p align="center">รูปภาพที่ 3.1: z-score formular</p>
+<p align="center">รูปภาพที่ 3.3: z-score formular</p>
+
+<p align="center">
+  <img width="455" alt="OSI Zscore" src="https://github.com/user-attachments/assets/b3345d88-0a45-4e39-955f-f2c3583cf7bc" />
+</p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
+
+งานวิเคราะห์นี้ จึงได้หาค่า Z-score ของ ประเทศไทยและประเทศต่างๆ ทั่วโลกออกมา ซึ่งแต่ละดัชนีย่อย จะมีค่า Z-score สูงสุดของประเทศที่ได้คะแนนสูงสุด ไม่เท่ากัน ดังแสดงในภาพ
+
+<img width="235" alt="Max Zscore OSI" src="https://github.com/user-attachments/assets/4edf1466-bcea-4532-8e7d-a608b0eb83f6" />
+
 
 <p align="center">
   <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/04476666-ca4f-4e49-a330-930a1a724967" />
@@ -275,18 +286,21 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
+![plot3 2_ThailandandMaxZscoreOSI](https://github.com/user-attachments/assets/2bb96791-70f3-4803-89b8-41d9fa88cd4d)
+![plot3 3_DifferenceMaxOSI](https://github.com/user-attachments/assets/87357e89-1a00-456e-9732-a4d2fd7a2ba1)
+![plot3 4_ComparisonsubTII1](https://github.com/user-attachments/assets/24991b1d-43f5-425d-93a1-a2a9daf9632b)
+![plot3 5_ComparisonsubTII2](https://github.com/user-attachments/assets/55e78466-de57-4910-bf73-1b252d2d08f3)
+![plot3 6_ThailandandMaxZscoreTII](https://github.com/user-attachments/assets/0d2421ee-1ebe-4ec2-984a-e06adcddd561)
+![plot3 7_DifferenceMaxTII](https://github.com/user-attachments/assets/e1151980-68c7-4fd1-a83c-0f1dc1d2d72d)
+![plot3 8_ComparisonsubHCI](https://github.com/user-attachments/assets/54e9ecd2-e108-4989-adb3-63c69438e2b1)
+![plot3 9_ThailandandMaxZscoreHCI](https://github.com/user-attachments/assets/a5468456-9e16-410e-af85-9154451eb6b6)
+![plot3 10_DifferenceMaxHCI](https://github.com/user-attachments/assets/1876a54d-2f31-4aa4-ab35-6f02b8416690)
+![plot3 11_EGDITrend](https://github.com/user-attachments/assets/01af6c6d-132d-4cd5-ad86-828605578ae2)
+![plot3 12_EGDIandTarget](https://github.com/user-attachments/assets/45ec6215-d436-4ae3-bddc-14ba76a11b41)
 
 
 
 
-![plot3 2_DifferenceMaxOSI](https://github.com/user-attachments/assets/b95b0e8a-772b-4915-a161-78d3086a0253)
-![plot3 3_ComparisonsubTII1](https://github.com/user-attachments/assets/5261a5e7-aa26-462a-9829-5783c1edb902)
-![plot3 4_ComparisonsubTII2](https://github.com/user-attachments/assets/db843680-81b3-4506-b159-6e57d97ba1a9)
-![plot3 5_DifferenceMaxTII](https://github.com/user-attachments/assets/54315a59-d0ee-4209-aff2-a71bfcdb1810)
-![plot3 6_ComparisonsubHCI](https://github.com/user-attachments/assets/dfcedc6c-0972-4fe9-a4ce-8dfd65114f16)
-![plot3 7_DifferenceMaxHCI](https://github.com/user-attachments/assets/c574ebc5-427e-4601-b662-359d1d0b2ac9)
-![plot3 8_EGDITrend](https://github.com/user-attachments/assets/e0bdc709-4e7a-4359-8014-ceb597a4d210)
-![plot3 9_EGDIandTarget](https://github.com/user-attachments/assets/612e956a-5c02-45f7-bccb-885e60ef6c26)
 
 
 
