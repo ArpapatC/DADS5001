@@ -246,7 +246,7 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">รูปภาพที่ 3.3: z-score formular</p>
 
 <p align="center">
-  <img width="600" alt="OSI Zscore" src="https://github.com/user-attachments/assets/b3345d88-0a45-4e39-955f-f2c3583cf7bc" />
+  <img width="700" alt="OSI Zscore" src="https://github.com/user-attachments/assets/b3345d88-0a45-4e39-955f-f2c3583cf7bc" />
 </p>
 ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
 <br/>
@@ -261,7 +261,7 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">รูปภาพที่ 3.5: OSI formular</p>
 
 <p align="center">
-  <img width="600" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
+  <img width="700" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
 </p>
 ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
 <br/>
