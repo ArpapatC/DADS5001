@@ -382,11 +382,25 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 # Part 4: What is the EGDI target score required to enhance Thailand's ranking to 40 or higher?
-<p align="center">รูปภาพที่ 4.1</p>
+<p align="center">รูปภาพที่ 4.1: EGDI Trend of Thailand, Global Average, and the Country Ranked 40th from 2003 to 2024</p>
 
 ![plot3 11_EGDITrend](https://github.com/user-attachments/assets/01af6c6d-132d-4cd5-ad86-828605578ae2)
 
-<p align="center">รูปภาพที่ 4.2</p>
+รูปภาพที่ 4.1 แสดงผลคะแนน EGDI ตั้งแต่ปี 2002 ที่เริ่มมีการจัดทำ EGDI จนถึงปี 2024 ซึ่งเป็นปีล่าสุด โดยกราฟเส้นแสดงคะแนน EGDI ของประเทศไทย เทียบกับ ค่าเฉลี่ย EGDI ของโลก และค่าคะแนน EGDI ของประเทศที่ได้อันดับที่ 40 ของแต่ละปี <br/>
+<br/>
+จากกราฟ จะเห็นว่า คะแนนเฉลี่ยและคะแนนของประเทศที่ได้อันดับที่ 40 เพิ่มขึ้นทุกปี ทำให้ประเทศไทยไม่สามารถตั้งค่าคะแนนเป้าหมายที่ต้องเพิ่มในปี 2026 เป็นคะแนนอันดับที่ 40 ของปี 2024 ได้ ยกตัวอย่างเช่น คะแนน EGDI ประเทศไทยปี 2024 สูงกว่าคะแนนของประเทศที่ได้อันดับที่ 2022 แล้ว แต่คะแนนเฉลี่ยของทุกประเทศและคะแนนของประเทศที่ได้อันดับที่ 40 ของปี 2024 กลับเพิ่มมากขึ้นไปอีก ทำให้ปี 2024 ประเทศไทยได้เพียงอันดับที่ 52
+
+<br/>
+<br/>
+งานวิเคราะห์นี้ จึงได้หา increment point ของค่าเฉลี่ย EGDI ปี 2024 ที่เพิ่มขึ้นจากปี 2022 (คะแนนเฉลี่ยปี 2024 - คะแนนเฉลี่ยปี 2022) แล้วนำ increment point มาบวกเพิ่มเข้ากับคะแนนอันดับที่ 40 ของปี 2024 ได้ออกมาเป็นค่าเป้าหมายที่ประเทศไทยต้องทำเพื่อให้ได้อันดับที่ 40 ภายในปี 2570
+
+<p align="center">รูปภาพที่ 4.2: EGDI target score</p>
+
+<p align="center">
+  <img width="423" alt="EGDI target score" src="https://github.com/user-attachments/assets/f19cf89b-8655-47d7-bd45-56ecd2cf64f9" />
+</p>
+
+<p align="center">รูปภาพที่ 4.3: EGDI target score for Thailand to reach a ranking of 40th</p>
 
 ![plot3 12_EGDIandTarget](https://github.com/user-attachments/assets/45ec6215-d436-4ae3-bddc-14ba76a11b41)
 
