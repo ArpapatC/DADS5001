@@ -1,5 +1,5 @@
 # DADS5001
-E-Government Development Index (EGDI) 2024<br/>
+Enhancing Thailand's E-Government Development Index (EGDI) Ranking<br/>
 <br/>
 สำนักงานพัฒนารัฐบาลดิจิทัล (องค์การมหาชน) หรือ DGA ได้จัดทำ แผนพัฒนารัฐบาลดิจิทัลของประเทศไทย พ.ศ. 2566 – 2570 โดยตั้งเป้าหมายในการยกระดับ ดัชนีรัฐบาลอิเล็กทรอนิกส์ (E-Government Development Index: EGDI) ให้ได้อันดับไม่ต่ำกว่าอันดับที่ 40 ของโลก ภายในปี 2570 ซึ่งผลที่จัดทำล่าสุด EGDI 2024 ในปี 2567 ประเทศไทยอยู่ที่อันดับที่ 52 ของโลก <br/>
 <br/>
