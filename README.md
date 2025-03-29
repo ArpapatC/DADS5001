@@ -263,10 +263,14 @@ E-Government Development Index (EGDI) 2024<br/>
 <p align="center">
   <img width="443" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
 </p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
 
+ทำให้เห็นว่า คะแนนแต่ละดัชนีย่อยที่ประเทศไทยยังสามารถเพิ่มได้ คือ ส่วนต่างระหว่าง Max Z-Score * น้ำหนักของดัชนีย่อย ทำให้ได้ออกมาเป็น
 
+<p align="center">รูปภาพที่ 3.4: Thailand's Weighted Difference from the Maximum Z-Score for OSI Sub-Indices</p>
 
-
+จากรูปภาพที่ 3.4 จะเห็นว่า ดัชนีย่อยภายใต้ OSI ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Service Provision รองลงมา คือ E-Participation
 
 
 
