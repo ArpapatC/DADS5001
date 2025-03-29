@@ -405,6 +405,8 @@ E-Government Development Index (EGDI) 2024<br/>
 
 รูปภาพที่ 4.3 แสดงค่าเป้าหมายของประเทศไทย เพื่อยกระดับ EGDI ไปสู่อันดับที่ 40 เทียบกับคะแนน EGDI ของประเทศไทยในปี 2024
 
+จัดทำโดย อาภาภัทร ฉัทศิริวรรณ 6610422033<br/>
+<br/>
 Reference
 1. United Nations (2024). UN E-Government Survey 2024. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 
 2. United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 
