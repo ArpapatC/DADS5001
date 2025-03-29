@@ -322,7 +322,7 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ![plot3 7_DifferenceMaxTII](https://github.com/user-attachments/assets/e1151980-68c7-4fd1-a83c-0f1dc1d2d72d)
 
-จากรูปภาพที่ 3.11 จะเห็นว่า ดัชนีย่อยภายใต้ TII ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Percentage_of_using_Internet
+จากรูปภาพที่ 3.11 จะเห็นว่า ดัชนีย่อยภายใต้ TII ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Percentage of using Internet
 
 
 
