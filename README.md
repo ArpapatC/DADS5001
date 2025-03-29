@@ -409,7 +409,7 @@ E-Government Development Index (EGDI) 2024<br/>
 Reference
 1. United Nations (2024). UN E-Government Survey 2024. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 
 2. United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 
-
+3. UN EGDI 2002 - 2024 csv data retrieved from United Nations (2024). UN E-Government Knowlwdgebase. https://publicadministration.un.org/egovkb/en-us/Data-Center
 
 
 
