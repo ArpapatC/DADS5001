@@ -257,6 +257,12 @@ E-Government Development Index (EGDI) 2024<br/>
 
 ![plot3 2_ThailandandMaxZscoreOSI](https://github.com/user-attachments/assets/2bb96791-70f3-4803-89b8-41d9fa88cd4d)
 
+จากนั้น ได้นำมาคำนวณ OSI ตามสูตร
+<p align="center">รูปภาพที่ 3.3: OSI formular</p>
+
+<p align="center">
+  <img width="443" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
+</p>
 
 
 
