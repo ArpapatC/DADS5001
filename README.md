@@ -378,24 +378,16 @@ E-Government Development Index (EGDI) 2024<br/>
 จากรูปภาพที่ 3.16 จะเห็นว่า ดัชนีย่อยภายใต้ TII ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Expected Year of Schooling และ Mean Year of Schooling
 
 
-<p align="center">รูปภาพที่ 3</p>
-<p align="center">รูปภาพที่ 3</p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+# Part 4: What is the EGDI target score required to enhance Thailand's ranking to 40 or higher?
+<p align="center">รูปภาพที่ 4.1</p>
 
 ![plot3 11_EGDITrend](https://github.com/user-attachments/assets/01af6c6d-132d-4cd5-ad86-828605578ae2)
+
+<p align="center">รูปภาพที่ 4.2</p>
+
 ![plot3 12_EGDIandTarget](https://github.com/user-attachments/assets/45ec6215-d436-4ae3-bddc-14ba76a11b41)
 
 
