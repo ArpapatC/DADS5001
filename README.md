@@ -327,26 +327,74 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
-<p align="center">รูปภาพที่ 3</p>
-<p align="center">รูปภาพที่ 3</p>
 
 
+# HCI
+<p align="center">รูปภาพที่ 3.12: The five subindices of the Human Capital Index</p>
 
+<p align="center">
+  <img width="800" alt="HCI Component" src="https://github.com/user-attachments/assets/635a4973-0d8d-406d-a252-030e0e9bef7a" />
+</p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
 
-
-
-
-
-
-
-
-
-
-
+ดัชนีทุนมนุษย์ (Human Capital Index: HCI) ประกอบด้วยดัชนีย่อย 5 อย่าง ดังนี้ 
+1. Expected years of schooling (EYS)
+2. Mean years of schooling (MYS)
+3. Gross enrolment ratio (%) (GER)
+4. Adult literacy (AL)
+5. E-government literacy (EGL) 
+ 
+<p align="center">รูปภาพที่ 3.13: Comparison of Human Capital Index for Thailand vs. Global Average and Maximum Value</p>
 
 ![plot3 8_ComparisonsubHCI](https://github.com/user-attachments/assets/54e9ecd2-e108-4989-adb3-63c69438e2b1)
+
+
+รูปภาพที่ 3.13 แสดงผลดัชนีย่อยภายใต้ HCI ของประเทศไทย เทียบกับค่าเฉลี่ยของโลก และค่าของประเทศที่มีคะแนนสูงสุด โดยจะเห็นว่า แต่ละดัชนีย่อย ประเทศไทยทำได้สูงกว่าค่าเฉลี่ยแล้ว ยกเว้น Mean_Year_of_Schooling นอกจากนี้ เมื่อหน่วยงานของแต่ละดัชนีย่อยไม่เท่ากัน จึงยิ่งยากในการเทียบว่าประเทศไทยควรยกระดับดัชนีย่อยใด จึงต้องทำการวิเคราะห์ต่อไป<br/>
+<br/>
+อย่างไรก็ตาม UN ไม่ได้นำคะแนนดิบที่โชว์ในกราฟนี้ไปใช้คิดคะแนนของ HCI เลย แต่ UN จะคิดค่า Z-score ของดัชนีย่อยก่อนนำไปหาค่าเฉลี่ยถ่วงน้ำหนัก แล้วออกมาเป็น ค่า HCI โดยมีสูตรในการคิด Z-score เหมือน OSI<br/>
+<br/>
+งานวิเคราะห์นี้ จึงได้หาค่า Z-score ของ ประเทศไทยและประเทศต่างๆ ทั่วโลกออกมา ซึ่งแต่ละดัชนีย่อย จะมีค่า Z-score สูงสุดของประเทศที่ได้คะแนนสูงสุด ไม่เท่ากัน ดังแสดงในภาพ
+
+<p align="center">รูปภาพที่ 3.14: Thailand Z-scores and Max Z-scores</p>
+
 ![plot3 9_ThailandandMaxZscoreHCI](https://github.com/user-attachments/assets/a5468456-9e16-410e-af85-9154451eb6b6)
+
+จากนั้น ได้นำมาคำนวณ HCI ตามสูตร
+<p align="center">รูปภาพที่ 3.15: HCI formular</p>
+
+<p align="center">
+  <img width="700" alt="HCI Calculation" src="https://github.com/user-attachments/assets/ba3ff6d1-f754-4814-8db1-0498aa812a0f" />
+</p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
+
+ทำให้เห็นว่า คะแนนแต่ละดัชนีย่อยที่ประเทศไทยยังสามารถเพิ่มได้ คือ ส่วนต่างระหว่าง Max Z-Score * น้ำหนักของดัชนีย่อย ทำให้ได้ออกมาเป็น
+
+<p align="center">รูปภาพที่ 3.16: Thailand's Weighted Difference from the Maximum Z-Score for HCI Sub-Indices</p>
+
 ![plot3 10_DifferenceMaxHCI](https://github.com/user-attachments/assets/1876a54d-2f31-4aa4-ab35-6f02b8416690)
+
+จากรูปภาพที่ 3.16 จะเห็นว่า ดัชนีย่อยภายใต้ TII ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Expected Year of Schooling และ Mean Year of Schooling
+
+
+<p align="center">รูปภาพที่ 3</p>
+<p align="center">รูปภาพที่ 3</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![plot3 11_EGDITrend](https://github.com/user-attachments/assets/01af6c6d-132d-4cd5-ad86-828605578ae2)
 ![plot3 12_EGDIandTarget](https://github.com/user-attachments/assets/45ec6215-d436-4ae3-bddc-14ba76a11b41)
 
