@@ -222,11 +222,41 @@ E-Government Development Index (EGDI) 2024<br/>
 # Part 3: Which sub-indices should be prioritized to enhance Thailand's EGDI ranking?
 ## OSI
 
-<p align="center">รูปภาพที่ 3.1: Comparison of Online Service Index for Thailand vs. Global Average and Maximum Value</p>
+<p align="center">รูปภาพที่ 3.1: The five subindices of the Online Services Index</p>
+
+<p align="center">
+  <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/04476666-ca4f-4e49-a330-930a1a724967" />
+</p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
+
+ดัชนีการบริการภาครัฐ (Online Services Index: OSI) ประกอบด้วยดัชนีย่อย 5 อย่าง ดังนี้ 
+1. Institutional framework, 10% (IF)
+2. Services provision, 45% (SP)
+3. Content provision, 5% (CP)
+4. Technology, 5% (TEC)
+5. E-participation, 35% (EPI) 
+ 
+<p align="center">รูปภาพที่ 3.2: Comparison of Online Service Index for Thailand vs. Global Average and Maximum Value</p>
 
 ![plot3 1_ComparisonsubOSI](https://github.com/user-attachments/assets/2ba8a7ff-8c03-4166-99b6-4ff3ec409e1c)
 
-รูปภาพที่ 3.1
+รูปภาพที่ 3.2 แสดงผลดัชนีย่อยภายใต้ OSI ของประเทศไทย เทียบกับค่าเฉลี่ยของโลก และค่าของประเทศที่มีคะแนนสูงสุด โดยจะเห็นว่า แต่ละดัชนีย่อย ประเทศไทยทำได้สูงกว่าค่าเฉลี่ยแล้ว โดยเฉพาะ Institutional framework ประเทศไทยได้คะแนนเท่ากับประเทศที่ได้คะแนนสูงสุดแล้ว ส่วนดัชนีย่อยอื่นๆ มีค่าที่ห่างจากค่าสูงสุดแตกต่างกัน <br/>
+<br/>
+อย่างไรก็ตาม UN ไม่ได้นำคะแนนดิบที่โชว์ในกราฟนี้ไปใช้คิดคะแนนของ OSI เลย แต่ UN จะคิดค่า z-score ของดัชนีย่อยก่อนนำไปหาค่าเฉลี่ยถ่วงน้ำหนัก แล้วออกมาเป็น ค่า OSI  
+
+<p align="center">รูปภาพที่ 3.1: z-score formular</p>
+
+<p align="center">
+  <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/04476666-ca4f-4e49-a330-930a1a724967" />
+</p>
+
+
+
+
+
+
+
 
 
 
