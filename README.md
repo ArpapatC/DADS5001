@@ -255,38 +255,35 @@ E-Government Development Index (EGDI) 2024<br/>
 
 งานวิเคราะห์นี้ จึงได้หาค่า Z-score ของ ประเทศไทยและประเทศต่างๆ ทั่วโลกออกมา ซึ่งแต่ละดัชนีย่อย จะมีค่า Z-score สูงสุดของประเทศที่ได้คะแนนสูงสุด ไม่เท่ากัน ดังแสดงในภาพ
 
-<img width="235" alt="Max Zscore OSI" src="https://github.com/user-attachments/assets/4edf1466-bcea-4532-8e7d-a608b0eb83f6" />
-
-
-<p align="center">
-  <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/04476666-ca4f-4e49-a330-930a1a724967" />
-</p>
-
-
-
-
-
-
-
-
-
-
-
-<p align="center">รูปภาพที่ 3</p>
-<p align="center">รูปภาพที่ 3</p>
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">รูปภาพที่ 3.4: Thailand Z-scores and Max Z-scores</p>
 
 ![plot3 2_ThailandandMaxZscoreOSI](https://github.com/user-attachments/assets/2bb96791-70f3-4803-89b8-41d9fa88cd4d)
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="center">รูปภาพที่ 3</p>
+<p align="center">รูปภาพที่ 3</p>
+
+
+
+
+
+
+
+
+
+
+
+
 ![plot3 3_DifferenceMaxOSI](https://github.com/user-attachments/assets/87357e89-1a00-456e-9732-a4d2fd7a2ba1)
 ![plot3 4_ComparisonsubTII1](https://github.com/user-attachments/assets/24991b1d-43f5-425d-93a1-a2a9daf9632b)
 ![plot3 5_ComparisonsubTII2](https://github.com/user-attachments/assets/55e78466-de57-4910-bf73-1b252d2d08f3)
