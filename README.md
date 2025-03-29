@@ -15,7 +15,7 @@ E-Government Development Index (EGDI) 2024<br/>
   <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/f4ec030f-1e14-4059-a32f-ad13691f1d5d" />
 </p>
 
-ที่มา: United Nations (2024). UN E-Government Survey 2024. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
 <br/>
 
 1. ดัชนีบริการออนไลน์ (Online Service Index: OSI) ซึ่งอ้างอิงจากข้อมูลที่ได้จากการประเมินทางออนไลน์ที่ดำเนินการโดย UN DESA เพื่อตรวจสอบบริการออนไลน์ของประเทศ 193 ประเทศสมาชิกสหประชาชาติ นอกจากนี้ ยังมีการใช้แบบสอบถาม Member State Questionnaire (MSQ) ที่ให้ประเทศสมาชิกตอบ เพื่อเสริมการประเมินด้วย 
@@ -219,28 +219,28 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
-
-
-<p align="center">รูปภาพที่ 2</p>
-<p align="center">รูปภาพที่ 2</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Part 3: Which sub-indices should be prioritized to enhance Thailand's EGDI ranking?
+
+
+
+
+<p align="center">รูปภาพที่ 2</p>
+<p align="center">รูปภาพที่ 2</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ![plot3 1_ComparisonsubOSI](https://github.com/user-attachments/assets/2ba8a7ff-8c03-4166-99b6-4ff3ec409e1c)
 ![plot3 2_DifferenceMaxOSI](https://github.com/user-attachments/assets/b95b0e8a-772b-4915-a161-78d3086a0253)
