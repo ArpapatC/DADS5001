@@ -220,29 +220,35 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 # Part 3: Which sub-indices should be prioritized to enhance Thailand's EGDI ranking?
+## OSI
 
-
-
-
-<p align="center">รูปภาพที่ 2</p>
-<p align="center">รูปภาพที่ 2</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="center">รูปภาพที่ 3.1: Comparison of Online Service Index for Thailand vs. Global Average and Maximum Value</p>
 
 ![plot3 1_ComparisonsubOSI](https://github.com/user-attachments/assets/2ba8a7ff-8c03-4166-99b6-4ff3ec409e1c)
+
+รูปภาพที่ 3.1
+
+
+
+
+<p align="center">รูปภาพที่ 3</p>
+<p align="center">รูปภาพที่ 3</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![plot3 2_DifferenceMaxOSI](https://github.com/user-attachments/assets/b95b0e8a-772b-4915-a161-78d3086a0253)
 ![plot3 3_ComparisonsubTII1](https://github.com/user-attachments/assets/5261a5e7-aa26-462a-9829-5783c1edb902)
 ![plot3 4_ComparisonsubTII2](https://github.com/user-attachments/assets/db843680-81b3-4506-b159-6e57d97ba1a9)
