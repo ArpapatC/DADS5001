@@ -258,6 +258,63 @@ E-Government Development Index (EGDI) 2024<br/>
 ![plot3 2_ThailandandMaxZscoreOSI](https://github.com/user-attachments/assets/2bb96791-70f3-4803-89b8-41d9fa88cd4d)
 
 จากนั้น ได้นำมาคำนวณ OSI ตามสูตร
+<p align="center">รูปภาพที่ 3.5: OSI formular</p>
+
+<p align="center">
+  <img width="443" alt="OSI Calculation" src="https://github.com/user-attachments/assets/cc5af8f4-8e63-4ef5-bbf6-146fb7c6e056" />
+</p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
+
+ทำให้เห็นว่า คะแนนแต่ละดัชนีย่อยที่ประเทศไทยยังสามารถเพิ่มได้ คือ ส่วนต่างระหว่าง Max Z-Score * น้ำหนักของดัชนีย่อย ทำให้ได้ออกมาเป็น
+
+<p align="center">รูปภาพที่ 3.6: Thailand's Weighted Difference from the Maximum Z-Score for OSI Sub-Indices</p>
+
+![plot3 3_DifferenceMaxOSI](https://github.com/user-attachments/assets/87357e89-1a00-456e-9732-a4d2fd7a2ba1)
+
+จากรูปภาพที่ 3.6 จะเห็นว่า ดัชนีย่อยภายใต้ OSI ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Service Provision รองลงมา คือ E-Participation
+
+
+
+# TII
+<p align="center">รูปภาพที่ 3.1: The five subindices of the Online Services Index</p>
+
+<p align="center">
+  <img width="800" alt="EGDI Component" src="https://github.com/user-attachments/assets/04476666-ca4f-4e49-a330-930a1a724967" />
+</p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
+
+ดัชนีการบริการภาครัฐ (Online Services Index: OSI) ประกอบด้วยดัชนีย่อย 5 อย่าง ดังนี้ 
+1. Institutional framework, 10% (IF)
+2. Services provision, 45% (SP)
+3. Content provision, 5% (CP)
+4. Technology, 5% (TEC)
+5. E-participation, 35% (EPI) 
+ 
+<p align="center">รูปภาพที่ 3.2: Comparison of Online Service Index for Thailand vs. Global Average and Maximum Value</p>
+
+![plot3 1_ComparisonsubOSI](https://github.com/user-attachments/assets/2ba8a7ff-8c03-4166-99b6-4ff3ec409e1c)
+
+รูปภาพที่ 3.2 แสดงผลดัชนีย่อยภายใต้ OSI ของประเทศไทย เทียบกับค่าเฉลี่ยของโลก และค่าของประเทศที่มีคะแนนสูงสุด โดยจะเห็นว่า แต่ละดัชนีย่อย ประเทศไทยทำได้สูงกว่าค่าเฉลี่ยแล้ว โดยเฉพาะ Institutional framework ประเทศไทยได้คะแนนเท่ากับประเทศที่ได้คะแนนสูงสุดแล้ว ส่วนดัชนีย่อยอื่นๆ มีค่าที่ห่างจากค่าสูงสุดแตกต่างกัน <br/>
+<br/>
+อย่างไรก็ตาม UN ไม่ได้นำคะแนนดิบที่โชว์ในกราฟนี้ไปใช้คิดคะแนนของ OSI เลย แต่ UN จะคิดค่า z-score ของดัชนีย่อยก่อนนำไปหาค่าเฉลี่ยถ่วงน้ำหนัก แล้วออกมาเป็น ค่า OSI  
+
+<p align="center">รูปภาพที่ 3.3: z-score formular</p>
+
+<p align="center">
+  <img width="455" alt="OSI Zscore" src="https://github.com/user-attachments/assets/b3345d88-0a45-4e39-955f-f2c3583cf7bc" />
+</p>
+ที่มา: United Nations (2024). UN E-Government Survey 2024 Technical Appendix. United Nations. https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2024 <br/>
+<br/>
+
+งานวิเคราะห์นี้ จึงได้หาค่า Z-score ของ ประเทศไทยและประเทศต่างๆ ทั่วโลกออกมา ซึ่งแต่ละดัชนีย่อย จะมีค่า Z-score สูงสุดของประเทศที่ได้คะแนนสูงสุด ไม่เท่ากัน ดังแสดงในภาพ
+
+<p align="center">รูปภาพที่ 3.4: Thailand Z-scores and Max Z-scores</p>
+
+![plot3 2_ThailandandMaxZscoreOSI](https://github.com/user-attachments/assets/2bb96791-70f3-4803-89b8-41d9fa88cd4d)
+
+จากนั้น ได้นำมาคำนวณ OSI ตามสูตร
 <p align="center">รูปภาพที่ 3.3: OSI formular</p>
 
 <p align="center">
@@ -270,14 +327,13 @@ E-Government Development Index (EGDI) 2024<br/>
 
 <p align="center">รูปภาพที่ 3.4: Thailand's Weighted Difference from the Maximum Z-Score for OSI Sub-Indices</p>
 
+![plot3 3_DifferenceMaxOSI](https://github.com/user-attachments/assets/87357e89-1a00-456e-9732-a4d2fd7a2ba1)
+
 จากรูปภาพที่ 3.4 จะเห็นว่า ดัชนีย่อยภายใต้ OSI ที่ประเทศไทยยังสามารถเพิ่มได้มากที่สุด คือ Service Provision รองลงมา คือ E-Participation
 
 
 
 
-
-
-
 <p align="center">รูปภาพที่ 3</p>
 <p align="center">รูปภาพที่ 3</p>
 
@@ -292,11 +348,13 @@ E-Government Development Index (EGDI) 2024<br/>
 
 
 
-![plot3 3_DifferenceMaxOSI](https://github.com/user-attachments/assets/87357e89-1a00-456e-9732-a4d2fd7a2ba1)
 ![plot3 4_ComparisonsubTII1](https://github.com/user-attachments/assets/24991b1d-43f5-425d-93a1-a2a9daf9632b)
 ![plot3 5_ComparisonsubTII2](https://github.com/user-attachments/assets/55e78466-de57-4910-bf73-1b252d2d08f3)
 ![plot3 6_ThailandandMaxZscoreTII](https://github.com/user-attachments/assets/0d2421ee-1ebe-4ec2-984a-e06adcddd561)
 ![plot3 7_DifferenceMaxTII](https://github.com/user-attachments/assets/e1151980-68c7-4fd1-a83c-0f1dc1d2d72d)
+
+
+
 ![plot3 8_ComparisonsubHCI](https://github.com/user-attachments/assets/54e9ecd2-e108-4989-adb3-63c69438e2b1)
 ![plot3 9_ThailandandMaxZscoreHCI](https://github.com/user-attachments/assets/a5468456-9e16-410e-af85-9154451eb6b6)
 ![plot3 10_DifferenceMaxHCI](https://github.com/user-attachments/assets/1876a54d-2f31-4aa4-ab35-6f02b8416690)
